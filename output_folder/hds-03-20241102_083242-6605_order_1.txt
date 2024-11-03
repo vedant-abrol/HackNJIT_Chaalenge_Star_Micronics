@@ -1,0 +1,6 @@
+Company: CompanyName
+Order ID: 276794
+Total Price: 20.95 EUR
+VAT Amount: 3.19 EUR
+Items:
+  - 2 x Pancakes @ 13.0 EUR, VAT: 18.0% (1.98 EUR)

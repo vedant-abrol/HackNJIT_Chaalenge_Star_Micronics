@@ -1,0 +1,6 @@
+Company: CompanyName
+Order ID: 271183
+Total Price: 15.0 EUR
+VAT Amount: 2.29 EUR
+Items:
+  - 6 x 1 Scoop @ 15.0 EUR, VAT: 18.0% (2.29 EUR)

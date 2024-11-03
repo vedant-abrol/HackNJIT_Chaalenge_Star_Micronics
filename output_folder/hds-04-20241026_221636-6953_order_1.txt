@@ -1,0 +1,6 @@
+Company: CompanyName
+Order ID: 1418983
+Total Price: 31.8 EUR
+VAT Amount: 4.85 EUR
+Items:
+  - 3 x 4 pieces chicken meal @ 31.8 EUR, VAT: 18.0% (4.85 EUR)

@@ -1,0 +1,7 @@
+Company: CompanyName
+Order ID: 271306
+Total Price: 17.0 EUR
+VAT Amount: 2.6 EUR
+Items:
+  - 2 x SAVORY CROISSANT @ 10.0 EUR, VAT: 18.0% (1.53 EUR)
+  - 2 x FLAT WHITE @ 7.0 EUR, VAT: 18.0% (1.07 EUR)

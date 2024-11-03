@@ -1,0 +1,10 @@
+Company: CompanyName
+Order ID: 271502
+Total Price: 37.5 EUR
+VAT Amount: 5.73 EUR
+Items:
+  - 1 x Crunchy Fried Chicken (4pcs) Gà chiên giòn @ 6.6 EUR, VAT: 18.0% (1.01 EUR)
+  - 1 x Crunchy Fried Chicken (4pcs) Gà chiên giòn @ 6.6 EUR, VAT: 18.0% (1.01 EUR)
+  - 1 x Custard bun - Bánh bao ca dé @ 3.2 EUR, VAT: 18.0% (0.49 EUR)
+  - 1 x Crispy chicken bao bun @ 7.6 EUR, VAT: 18.0% (1.16 EUR)
+  - 1 x Beef Pho @ 13.5 EUR, VAT: 18.0% (2.06 EUR)

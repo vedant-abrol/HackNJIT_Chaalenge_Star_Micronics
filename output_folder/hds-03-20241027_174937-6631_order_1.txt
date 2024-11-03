@@ -1,0 +1,7 @@
+Company: CompanyName
+Order ID: 271863
+Total Price: 5.6 EUR
+VAT Amount: 0.82 EUR
+Items:
+  - 2 x Cisk @ 5.4 EUR, VAT: 18.0% (0.82 EUR)
+  - 2 x BCRS @ 0.2 EUR, VAT: 0.0% (0.0 EUR)

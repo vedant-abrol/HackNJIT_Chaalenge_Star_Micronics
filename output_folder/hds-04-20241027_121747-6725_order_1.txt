@@ -1,0 +1,8 @@
+Company: CompanyName
+Order ID: 271742
+Total Price: 29.7 EUR
+VAT Amount: 4.53 EUR
+Items:
+  - 1 x Bacon Strip @ 13.95 EUR, VAT: 18.0% (2.13 EUR)
+  - 1 x Frans Burger @ 4.8 EUR, VAT: 18.0% (0.73 EUR)
+  - 1 x Spaghetti Carbonara @ 10.95 EUR, VAT: 18.0% (1.67 EUR)

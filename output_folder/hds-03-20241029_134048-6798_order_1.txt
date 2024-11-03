@@ -1,0 +1,7 @@
+Company: CompanyName
+Order ID: 273675
+Total Price: 10.5 EUR
+VAT Amount: 1.61 EUR
+Items:
+  - 2 x PISTACHIO COOKIE @ 6.0 EUR, VAT: 18.0% (0.92 EUR)
+  - 1 x CHAI LATTE @ 4.5 EUR, VAT: 18.0% (0.69 EUR)

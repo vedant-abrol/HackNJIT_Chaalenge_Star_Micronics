@@ -1,0 +1,7 @@
+Company: CompanyName
+Order ID: 1424313
+Total Price: 3.1 EUR
+VAT Amount: 0.47 EUR
+Items:
+  - 1 x Espresso @ 1.4 EUR, VAT: 18.0% (0.21 EUR)
+  - 1 x Ham and Cheese Toast @ 1.7 EUR, VAT: 18.0% (0.26 EUR)

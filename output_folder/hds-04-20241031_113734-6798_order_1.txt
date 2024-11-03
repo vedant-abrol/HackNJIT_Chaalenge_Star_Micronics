@@ -1,0 +1,9 @@
+Company: CompanyName
+Order ID: 275354
+Total Price: 26.2 EUR
+VAT Amount: 4.0 EUR
+Items:
+  - 3 x WRAPS @ 18.0 EUR, VAT: 18.0% (2.75 EUR)
+  - 1 x LATTE @ 3.7 EUR, VAT: 18.0% (0.56 EUR)
+  - 1 x CAPPUCCINO @ 2.5 EUR, VAT: 18.0% (0.38 EUR)
+  - 1 x AMERICANO @ 2.0 EUR, VAT: 18.0% (0.31 EUR)

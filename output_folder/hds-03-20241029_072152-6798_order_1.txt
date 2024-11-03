@@ -1,0 +1,7 @@
+Company: CompanyName
+Order ID: 272900
+Total Price: 7.5 EUR
+VAT Amount: 1.14 EUR
+Items:
+  - 1 x CAPPUCCINO @ 2.5 EUR, VAT: 18.0% (0.38 EUR)
+  - 1 x SAVORY CROISSANT @ 5.0 EUR, VAT: 18.0% (0.76 EUR)

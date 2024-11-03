@@ -1,0 +1,6 @@
+Company: CompanyName
+Order ID: 1418206
+Total Price: 2.4 EUR
+VAT Amount: 0.37 EUR
+Items:
+  - 3 x Instant Coffee @ 2.4 EUR, VAT: 18.0% (0.37 EUR)

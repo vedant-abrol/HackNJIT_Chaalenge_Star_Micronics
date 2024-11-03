@@ -1,0 +1,8 @@
+Company: CompanyName
+Order ID: 271832
+Total Price: 37.4 EUR
+VAT Amount: 5.7 EUR
+Items:
+  - 1 x 20 STRIPS MEAL- 2drinks @ 30.95 EUR, VAT: 18.0% (4.72 EUR)
+  - 2 x BCRS @ 0.2 EUR, VAT: 18.0% (0.03 EUR)
+  - 1 x 6 WINGS @ 6.25 EUR, VAT: 18.0% (0.95 EUR)

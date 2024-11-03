@@ -1,0 +1,9 @@
+Company: CompanyName
+Order ID: 275813
+Total Price: 34.35 EUR
+VAT Amount: 5.24 EUR
+Items:
+  - 1 x Cheese Buds @ 15.95 EUR, VAT: 18.0% (2.43 EUR)
+  - 1 x Hog Dawg @ 10.95 EUR, VAT: 18.0% (1.67 EUR)
+  - 1 x XL Onion Rings x6 @ 5.45 EUR, VAT: 18.0% (0.83 EUR)
+  - 1 x Ice Tea Peach @ 2.0 EUR, VAT: 18.0% (0.31 EUR)

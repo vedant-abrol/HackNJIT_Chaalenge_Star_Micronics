@@ -1,0 +1,7 @@
+Company: CompanyName
+Order ID: 271595
+Total Price: 55.8 EUR
+VAT Amount: 8.52 EUR
+Items:
+  - 2 x Bacon Strip @ 27.9 EUR, VAT: 18.0% (4.26 EUR)
+  - 2 x Gentleman's Jack @ 27.9 EUR, VAT: 18.0% (4.26 EUR)

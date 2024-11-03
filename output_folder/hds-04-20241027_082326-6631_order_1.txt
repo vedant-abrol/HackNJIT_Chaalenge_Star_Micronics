@@ -1,0 +1,6 @@
+Company: CompanyName
+Order ID: 271668
+Total Price: 8.0 EUR
+VAT Amount: 1.22 EUR
+Items:
+  - 4 x Espresso Lungo @ 8.0 EUR, VAT: 18.0% (1.22 EUR)

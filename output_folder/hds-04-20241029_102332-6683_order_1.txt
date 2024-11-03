@@ -1,0 +1,6 @@
+Company: CompanyName
+Order ID: 273137
+Total Price: 12.3 EUR
+VAT Amount: 1.88 EUR
+Items:
+  - 1 x Bun Cha Ha Noi @ 12.3 EUR, VAT: 18.0% (1.88 EUR)

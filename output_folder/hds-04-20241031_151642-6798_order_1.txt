@@ -1,0 +1,6 @@
+Company: CompanyName
+Order ID: 275739
+Total Price: 5.9 EUR
+VAT Amount: 0.82 EUR
+Items:
+  - 3 x MACCHIATO @ 5.4 EUR, VAT: 18.0% (0.82 EUR)

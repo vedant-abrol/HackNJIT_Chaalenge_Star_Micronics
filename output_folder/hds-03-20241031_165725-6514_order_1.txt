@@ -1,0 +1,7 @@
+Company: CompanyName
+Order ID: 275784
+Total Price: 22.5 EUR
+VAT Amount: 3.43 EUR
+Items:
+  - 2 x Cocktail @ 19.0 EUR, VAT: 18.0% (2.9 EUR)
+  - 1 x Soft Drinks @ 3.5 EUR, VAT: 18.0% (0.53 EUR)

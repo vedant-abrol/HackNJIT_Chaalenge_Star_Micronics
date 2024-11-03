@@ -1,0 +1,7 @@
+Company: CompanyName
+Order ID: 1434000
+Total Price: 7.5 EUR
+VAT Amount: 1.14 EUR
+Items:
+  - 1 x BRIE & SERRANO @ 6.5 EUR, VAT: 18.0% (0.99 EUR)
+  - 1 x WATER @ 1.0 EUR, VAT: 18.0% (0.15 EUR)

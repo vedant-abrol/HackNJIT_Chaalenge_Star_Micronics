@@ -1,0 +1,12 @@
+Company: CompanyName
+Order ID: 1421217
+Total Price: 21.4 EUR
+VAT Amount: 6.71 EUR
+Items:
+  - 1 x All the meats Roll @ 5.0 EUR, VAT: 18.0% (0.76 EUR)
+  - 2 x Americano @ 2.8 EUR, VAT: 18.0% (0.43 EUR)
+  - 2 x BCRS @ 0.2 EUR, VAT: 0.0% (0.0 EUR)
+  - 2 x Cappucino @ 4.0 EUR, VAT: 18.0% (0.61 EUR)
+  - 2 x Coffee normal @ 1.6 EUR, VAT: 18.0% (0.24 EUR)
+  - 1 x Red Bull @ 1.9 EUR, VAT: 18.0% (0.29 EUR)
+  - 1 x Still Water (Local) @ 0.9 EUR, VAT: 18.0% (0.14 EUR)

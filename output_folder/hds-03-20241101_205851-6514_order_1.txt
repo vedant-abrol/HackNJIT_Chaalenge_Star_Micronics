@@ -1,0 +1,9 @@
+Company: CompanyName
+Order ID: 276730
+Total Price: 68.45 EUR
+VAT Amount: 10.43 EUR
+Items:
+  - 1 x Prosecco Superiore Extra Dry ‘Vino dei Poeti’ Valdobbiadene Bottega, Veneto ~ Italy @ 28.0 EUR, VAT: 18.0% (4.27 EUR)
+  - 1 x Tavolaccio Apericena @ 25.0 EUR, VAT: 18.0% (3.81 EUR)
+  - 1 x Focaccia con salame Finocchiona @ 11.5 EUR, VAT: 18.0% (1.75 EUR)
+  - 1 x Water 0.75 @ 3.95 EUR, VAT: 18.0% (0.6 EUR)

@@ -1,0 +1,10 @@
+Company: CompanyName
+Order ID: 273849
+Total Price: 84.9 EUR
+VAT Amount: 12.96 EUR
+Items:
+  - 1 x Focaccia Veg @ 9.5 EUR, VAT: 18.0% (1.45 EUR)
+  - 1 x Insalata vegana @ 11.5 EUR, VAT: 18.0% (1.75 EUR)
+  - 1 x Tavoletta formaggi @ 18.0 EUR, VAT: 18.0% (2.75 EUR)
+  - 1 x Refosco del Peduncolo D.O.C. Castello di Butrio, Friulli Venezia Giulia @ 38.0 EUR, VAT: 18.0% (5.8 EUR)
+  - 2 x Water 0.75 @ 7.9 EUR, VAT: 18.0% (1.21 EUR)

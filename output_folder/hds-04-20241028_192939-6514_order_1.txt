@@ -1,0 +1,8 @@
+Company: CompanyName
+Order ID: 272861
+Total Price: 77.5 EUR
+VAT Amount: 11.83 EUR
+Items:
+  - 2 x Cocktail @ 19.0 EUR, VAT: 18.0% (2.9 EUR)
+  - 1 x Aperol Spritz @ 8.5 EUR, VAT: 18.0% (1.3 EUR)
+  - 2 x Tavolaccio Apericena @ 50.0 EUR, VAT: 18.0% (7.63 EUR)

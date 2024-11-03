@@ -1,0 +1,8 @@
+Company: CompanyName
+Order ID: 271120
+Total Price: 13.2 EUR
+VAT Amount: 1.99 EUR
+Items:
+  - 2 x LC BLUE LAGOON @ 7.0 EUR, VAT: 18.0% (1.07 EUR)
+  - 2 x BCRS @ 0.2 EUR, VAT: 0.0% (0.0 EUR)
+  - 1 x MUCHO MAS WHITE @ 6.0 EUR, VAT: 18.0% (0.92 EUR)

@@ -1,0 +1,7 @@
+Company: CompanyName
+Order ID: 273821
+Total Price: 7.05 EUR
+VAT Amount: 1.08 EUR
+Items:
+  - 1 x 2 PIECE MEAL @ 6.95 EUR, VAT: 18.0% (1.06 EUR)
+  - 1 x BCRS @ 0.1 EUR, VAT: 18.0% (0.02 EUR)

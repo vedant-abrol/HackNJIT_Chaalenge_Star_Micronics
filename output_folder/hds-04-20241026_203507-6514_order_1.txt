@@ -1,0 +1,7 @@
+Company: CompanyName
+Order ID: 271640
+Total Price: 78.0 EUR
+VAT Amount: 11.9 EUR
+Items:
+  - 1 x Irpinia Falanghina D.O.C. Macchie Santa Maria, Campania @ 28.0 EUR, VAT: 18.0% (4.27 EUR)
+  - 2 x Tavolaccio Apericena @ 50.0 EUR, VAT: 18.0% (7.63 EUR)

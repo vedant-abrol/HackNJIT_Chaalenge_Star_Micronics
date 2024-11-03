@@ -1,0 +1,5 @@
+Company: CompanyName
+Order ID: 271493
+Total Price: 6.0 EUR
+VAT Amount: 0.0 EUR
+Items:

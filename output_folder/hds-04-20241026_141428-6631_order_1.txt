@@ -1,0 +1,7 @@
+Company: CompanyName
+Order ID: 271459
+Total Price: 8.0 EUR
+VAT Amount: 1.19 EUR
+Items:
+  - 2 x Stretta @ 7.8 EUR, VAT: 18.0% (1.19 EUR)
+  - 2 x BCRS @ 0.2 EUR, VAT: 0.0% (0.0 EUR)

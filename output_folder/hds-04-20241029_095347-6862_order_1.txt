@@ -1,0 +1,6 @@
+Company: CompanyName
+Order ID: 1424798
+Total Price: 6.5 EUR
+VAT Amount: 0.99 EUR
+Items:
+  - 1 x BRIE & SERRANO @ 6.5 EUR, VAT: 18.0% (0.99 EUR)

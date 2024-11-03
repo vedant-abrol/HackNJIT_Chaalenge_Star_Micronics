@@ -1,0 +1,9 @@
+Company: CompanyName
+Order ID: 1421725
+Total Price: 14.5 EUR
+VAT Amount: 5.66 EUR
+Items:
+  - 2 x BCRS @ 0.2 EUR, VAT: 0.0% (0.0 EUR)
+  - 1 x Crispy Chicken @ 5.5 EUR, VAT: 18.0% (0.84 EUR)
+  - 1 x Go & Fun @ 1.9 EUR, VAT: 18.0% (0.29 EUR)
+  - 1 x Sparkling Flavoured Water @ 1.9 EUR, VAT: 18.0% (0.29 EUR)

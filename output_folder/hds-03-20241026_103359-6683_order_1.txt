@@ -1,0 +1,10 @@
+Company: CompanyName
+Order ID: 271333
+Total Price: 41.6 EUR
+VAT Amount: 6.36 EUR
+Items:
+  - 1 x Crunchy Fried Chicken (4pcs) Gà chiên giòn @ 6.6 EUR, VAT: 18.0% (1.01 EUR)
+  - 1 x Steamed Prawn & Pork Parcels (4pcs) Xíu mại @ 6.6 EUR, VAT: 18.0% (1.01 EUR)
+  - 1 x Banh mi chicken @ 6.6 EUR, VAT: 18.0% (1.01 EUR)
+  - 1 x Grilled Pork with rice noodle (Bún Thịt Nướng) @ 9.9 EUR, VAT: 18.0% (1.51 EUR)
+  - 1 x The southern fried beef rice noodle (Bún Bò Xào) @ 11.9 EUR, VAT: 18.0% (1.82 EUR)

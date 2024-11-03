@@ -1,0 +1,8 @@
+Company: CompanyName
+Order ID: 273947
+Total Price: 11.3 EUR
+VAT Amount: 1.72 EUR
+Items:
+  - 1 x SPECULOOS & CRANBERRY COOKIE @ 3.0 EUR, VAT: 18.0% (0.46 EUR)
+  - 1 x CAPPUCCINO @ 2.5 EUR, VAT: 18.0% (0.38 EUR)
+  - 1 x BAGEL @ 5.8 EUR, VAT: 18.0% (0.88 EUR)

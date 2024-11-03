@@ -1,0 +1,9 @@
+Company: CompanyName
+Order ID: 276740
+Total Price: 10.35 EUR
+VAT Amount: 1.58 EUR
+Items:
+  - 1 x 2 PIECE @ 3.5 EUR, VAT: 18.0% (0.53 EUR)
+  - 1 x 6 WINGS @ 4.8 EUR, VAT: 18.0% (0.73 EUR)
+  - 1 x PEPSI @ 1.95 EUR, VAT: 18.0% (0.3 EUR)
+  - 1 x BCRS @ 0.1 EUR, VAT: 18.0% (0.02 EUR)

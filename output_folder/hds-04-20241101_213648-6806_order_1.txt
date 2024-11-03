@@ -1,0 +1,7 @@
+Company: CompanyName
+Order ID: 276748
+Total Price: 16.0 EUR
+VAT Amount: 2.44 EUR
+Items:
+  - 2 x Heineken @ 8.0 EUR, VAT: 18.0% (1.22 EUR)
+  - 4 x Heineken @ 8.0 EUR, VAT: 18.0% (1.22 EUR)

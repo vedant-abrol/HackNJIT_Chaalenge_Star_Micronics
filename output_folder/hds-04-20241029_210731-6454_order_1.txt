@@ -1,0 +1,7 @@
+Company: CompanyName
+Order ID: 1428919
+Total Price: 2.3 EUR
+VAT Amount: 0.34 EUR
+Items:
+  - 1 x BCRS @ 0.1 EUR, VAT: 0.0% (0.0 EUR)
+  - 1 x Heineken @ 2.2 EUR, VAT: 18.0% (0.34 EUR)

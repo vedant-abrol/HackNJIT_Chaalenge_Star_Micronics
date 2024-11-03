@@ -1,0 +1,10 @@
+Company: CompanyName
+Order ID: 271443
+Total Price: 10.5 EUR
+VAT Amount: 1.57 EUR
+Items:
+  - 1 x 1 Scoop @ 2.5 EUR, VAT: 18.0% (0.38 EUR)
+  - 1 x 2 Scoop @ 4.0 EUR, VAT: 18.0% (0.61 EUR)
+  - 1 x Small Still water @ 1.4 EUR, VAT: 18.0% (0.21 EUR)
+  - 2 x BCRS @ 0.2 EUR, VAT: 0.0% (0.0 EUR)
+  - 1 x Soft drinks @ 2.4 EUR, VAT: 18.0% (0.37 EUR)

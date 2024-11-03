@@ -1,0 +1,6 @@
+Company: CompanyName
+Order ID: 1426886
+Total Price: 1.85 EUR
+VAT Amount: 0.28 EUR
+Items:
+  - 1 x POWERADE @ 1.85 EUR, VAT: 18.0% (0.28 EUR)

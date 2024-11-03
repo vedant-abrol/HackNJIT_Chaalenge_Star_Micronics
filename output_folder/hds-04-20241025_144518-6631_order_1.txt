@@ -1,0 +1,7 @@
+Company: CompanyName
+Order ID: 271095
+Total Price: 12.5 EUR
+VAT Amount: 1.83 EUR
+Items:
+  - 5 x Juices/Mixers @ 12.0 EUR, VAT: 18.0% (1.83 EUR)
+  - 5 x BCRS @ 0.5 EUR, VAT: 0.0% (0.0 EUR)

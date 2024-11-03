@@ -1,0 +1,6 @@
+Company: CompanyName
+Order ID: 271638
+Total Price: 2.5 EUR
+VAT Amount: 0.38 EUR
+Items:
+  - 1 x Bells @ 2.5 EUR, VAT: 18.0% (0.38 EUR)

@@ -1,0 +1,7 @@
+Company: CompanyName
+Order ID: 275375
+Total Price: 8.0 EUR
+VAT Amount: 1.22 EUR
+Items:
+  - 3 x TEA @ 4.5 EUR, VAT: 18.0% (0.69 EUR)
+  - 1 x ICED LATTE @ 3.5 EUR, VAT: 18.0% (0.53 EUR)

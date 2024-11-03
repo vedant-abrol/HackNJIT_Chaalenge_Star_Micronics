@@ -1,0 +1,11 @@
+Company: CompanyName
+Order ID: 276681
+Total Price: 35.45 EUR
+VAT Amount: 5.42 EUR
+Items:
+  - 1 x 10/10 BUCKET- 2drinks @ 32.45 EUR, VAT: 18.0% (4.95 EUR)
+  - 2 x BCRS @ 0.2 EUR, VAT: 18.0% (0.03 EUR)
+  - 1 x BBQ @ 0.7 EUR, VAT: 18.0% (0.11 EUR)
+  - 1 x Light Chilli @ 0.7 EUR, VAT: 18.0% (0.11 EUR)
+  - 1 x Spicy Sauce @ 0.7 EUR, VAT: 18.0% (0.11 EUR)
+  - 1 x Sweet Chilli @ 0.7 EUR, VAT: 18.0% (0.11 EUR)

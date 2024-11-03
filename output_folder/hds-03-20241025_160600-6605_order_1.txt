@@ -1,0 +1,17 @@
+Company: CompanyName
+Order ID: 271136
+Total Price: 481.15 EUR
+VAT Amount: 73.57 EUR
+Items:
+  - 2 x Shakshuka Bread Bowl @ 25.0 EUR, VAT: 18.0% (3.81 EUR)
+  - 6 x Heirloom Breakfast Box @ 59.4 EUR, VAT: 18.0% (9.06 EUR)
+  - 6 x Veggie Breakfast Box @ 59.4 EUR, VAT: 18.0% (9.06 EUR)
+  - 4 x Bagel & Lox @ 35.6 EUR, VAT: 18.0% (5.43 EUR)
+  - 5 x Wild Mushroom @ 39.5 EUR, VAT: 18.0% (6.03 EUR)
+  - 5 x Holy Guacamole @ 39.5 EUR, VAT: 18.0% (6.03 EUR)
+  - 6 x The Heirloom Shroom Burger @ 75.0 EUR, VAT: 18.0% (11.44 EUR)
+  - 4 x Classic Burger, Our Way @ 50.0 EUR, VAT: 18.0% (7.63 EUR)
+  - 4 x GBD Fried Chicken Burger @ 50.0 EUR, VAT: 18.0% (7.63 EUR)
+  - 2 x BBQ Pulled Pork Burger @ 25.0 EUR, VAT: 18.0% (3.81 EUR)
+  - 2 x Rice Superpower Salad @ 19.0 EUR, VAT: 18.0% (2.9 EUR)
+  - 1 x Salt & Pepper Fries @ 3.5 EUR, VAT: 18.0% (0.53 EUR)

@@ -1,0 +1,8 @@
+Company: CompanyName
+Order ID: 273724
+Total Price: 44.8 EUR
+VAT Amount: 6.83 EUR
+Items:
+  - 10 x CAPPUCCINO @ 25.0 EUR, VAT: 18.0% (3.81 EUR)
+  - 7 x AMERICANO @ 14.0 EUR, VAT: 18.0% (2.14 EUR)
+  - 1 x BAGEL @ 5.8 EUR, VAT: 18.0% (0.88 EUR)

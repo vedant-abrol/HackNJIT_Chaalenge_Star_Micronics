@@ -1,0 +1,9 @@
+Company: CompanyName
+Order ID: 276722
+Total Price: 79.95 EUR
+VAT Amount: 12.19 EUR
+Items:
+  - 1 x Water 0.75 @ 3.95 EUR, VAT: 18.0% (0.6 EUR)
+  - 1 x Pumpkin Soup @ 16.0 EUR, VAT: 18.0% (2.44 EUR)
+  - 1 x Carpaccio Seabrim @ 20.0 EUR, VAT: 18.0% (3.05 EUR)
+  - 2 x Polpo al piatto @ 40.0 EUR, VAT: 18.0% (6.1 EUR)

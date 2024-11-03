@@ -1,0 +1,9 @@
+Company: CompanyName
+Order ID: 1440252
+Total Price: 6.5 EUR
+VAT Amount: 0.95 EUR
+Items:
+  - 3 x BCRS @ 0.3 EUR, VAT: 0.0% (0.0 EUR)
+  - 1 x Cisk @ 2.4 EUR, VAT: 18.0% (0.37 EUR)
+  - 1 x Skol @ 1.9 EUR, VAT: 18.0% (0.29 EUR)
+  - 1 x Soft Drinks @ 1.9 EUR, VAT: 18.0% (0.29 EUR)

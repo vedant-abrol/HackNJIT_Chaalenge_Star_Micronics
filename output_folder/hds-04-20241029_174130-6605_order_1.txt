@@ -1,0 +1,8 @@
+Company: CompanyName
+Order ID: 273824
+Total Price: 65.3 EUR
+VAT Amount: 9.96 EUR
+Items:
+  - 4 x The Heirloom Shroom Burger @ 50.0 EUR, VAT: 18.0% (7.63 EUR)
+  - 1 x The Heirloom Shroom Burger @ 14.5 EUR, VAT: 18.0% (2.21 EUR)
+  - 1 x Smoked BBQ Sauce @ 0.75 EUR, VAT: 18.0% (0.11 EUR)

@@ -1,0 +1,6 @@
+Company: CompanyName
+Order ID: 1428836
+Total Price: 3.0 EUR
+VAT Amount: 0.46 EUR
+Items:
+  - 2 x Americano @ 3.0 EUR, VAT: 18.0% (0.46 EUR)

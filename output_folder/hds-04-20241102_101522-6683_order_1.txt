@@ -1,0 +1,6 @@
+Company: CompanyName
+Order ID: 276852
+Total Price: 40.5 EUR
+VAT Amount: 6.18 EUR
+Items:
+  - 3 x Beef Pho @ 40.5 EUR, VAT: 18.0% (6.18 EUR)

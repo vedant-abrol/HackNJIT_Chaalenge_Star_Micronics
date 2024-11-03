@@ -1,0 +1,8 @@
+Company: CompanyName
+Order ID: 271838
+Total Price: 18.8 EUR
+VAT Amount: 2.88 EUR
+Items:
+  - 1 x 12 STRIPS MEAL @ 18.0 EUR, VAT: 18.0% (2.75 EUR)
+  - 1 x BCRS @ 0.1 EUR, VAT: 18.0% (0.02 EUR)
+  - 1 x Garlic Sauce @ 0.7 EUR, VAT: 18.0% (0.11 EUR)

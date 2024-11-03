@@ -1,0 +1,13 @@
+Company: CompanyName
+Order ID: 1432168
+Total Price: 48.45 EUR
+VAT Amount: 6.44 EUR
+Items:
+  - 1 x Avocado Toast @ 4.05 EUR, VAT: 18.0% (0.62 EUR)
+  - 1 x BCRS @ 0.09 EUR, VAT: 0.0% (0.0 EUR)
+  - 2 x Breakfast Ftira @ 9.9 EUR, VAT: 18.0% (1.51 EUR)
+  - 6 x Cappuccino @ 12.15 EUR, VAT: 18.0% (1.85 EUR)
+  - 1 x Pepsi @ 1.8 EUR, VAT: 0.0% (0.0 EUR)
+  - 1 x Pulled Beef Taco (x3) @ 7.65 EUR, VAT: 18.0% (1.17 EUR)
+  - 1 x Tea Selection @ 2.03 EUR, VAT: 18.0% (0.31 EUR)
+  - 1 x Tonic Water @ 1.89 EUR, VAT: 18.0% (0.29 EUR)

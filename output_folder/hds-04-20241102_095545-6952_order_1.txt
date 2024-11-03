@@ -1,0 +1,10 @@
+Company: CompanyName
+Order ID: 1441499
+Total Price: 61.95 EUR
+VAT Amount: 9.45 EUR
+Items:
+  - 1 x 8 strips @ 7.1 EUR, VAT: 18.0% (1.08 EUR)
+  - 3 x Beef Taco @ 10.5 EUR, VAT: 18.0% (1.6 EUR)
+  - 1 x Fillet Snack Pack @ 6.6 EUR, VAT: 18.0% (1.01 EUR)
+  - 3 x Karaage Sakura Delight Meal @ 29.1 EUR, VAT: 18.0% (4.44 EUR)
+  - 1 x Tokyo Cheese Fillet Meal @ 8.65 EUR, VAT: 18.0% (1.32 EUR)

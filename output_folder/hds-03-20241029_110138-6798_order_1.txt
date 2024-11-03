@@ -1,0 +1,10 @@
+Company: CompanyName
+Order ID: 273211
+Total Price: 9.0 EUR
+VAT Amount: 1.34 EUR
+Items:
+  - 1 x MACCHIATO @ 1.8 EUR, VAT: 18.0% (0.27 EUR)
+  - 1 x LEAMO GINGER ALE @ 2.5 EUR, VAT: 18.0% (0.38 EUR)
+  - 2 x BCRS @ 0.2 EUR, VAT: 0.0% (0.0 EUR)
+  - 1 x CAPPUCCINO @ 3.0 EUR, VAT: 18.0% (0.46 EUR)
+  - 1 x STILL WATER @ 1.5 EUR, VAT: 18.0% (0.23 EUR)

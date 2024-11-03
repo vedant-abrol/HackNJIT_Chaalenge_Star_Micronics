@@ -1,0 +1,8 @@
+Company: CompanyName
+Order ID: 1420857
+Total Price: 12.3 EUR
+VAT Amount: 4.31 EUR
+Items:
+  - 2 x Cappucino @ 4.0 EUR, VAT: 18.0% (0.61 EUR)
+  - 1 x Coffee normal @ 0.8 EUR, VAT: 18.0% (0.12 EUR)
+  - 1 x Ham & Cheese Roll @ 4.0 EUR, VAT: 18.0% (0.61 EUR)

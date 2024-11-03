@@ -1,0 +1,5 @@
+Company: CompanyName
+Order ID: 272803
+Total Price: 12.5 EUR
+VAT Amount: 0.0 EUR
+Items:

@@ -1,0 +1,8 @@
+Company: CompanyName
+Order ID: 276727
+Total Price: 46.95 EUR
+VAT Amount: 7.16 EUR
+Items:
+  - 1 x Burrata @ 18.0 EUR, VAT: 18.0% (2.75 EUR)
+  - 1 x Tavolaccio Apericena @ 25.0 EUR, VAT: 18.0% (3.81 EUR)
+  - 1 x Water 0.75 @ 3.95 EUR, VAT: 18.0% (0.6 EUR)

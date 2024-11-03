@@ -1,0 +1,9 @@
+Company: CompanyName
+Order ID: 1424940
+Total Price: 9.0 EUR
+VAT Amount: 1.36 EUR
+Items:
+  - 1 x All the meats Roll @ 5.0 EUR, VAT: 18.0% (0.76 EUR)
+  - 1 x BCRS @ 0.1 EUR, VAT: 0.0% (0.0 EUR)
+  - 1 x Pepsi @ 1.9 EUR, VAT: 18.0% (0.29 EUR)
+  - 1 x Portion of Chips @ 2.0 EUR, VAT: 18.0% (0.31 EUR)

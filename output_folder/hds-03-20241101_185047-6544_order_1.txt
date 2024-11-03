@@ -1,0 +1,6 @@
+Company: CompanyName
+Order ID: 276662
+Total Price: 13.7 EUR
+VAT Amount: 2.09 EUR
+Items:
+  - 2 x 3 PIECE @ 13.7 EUR, VAT: 18.0% (2.09 EUR)

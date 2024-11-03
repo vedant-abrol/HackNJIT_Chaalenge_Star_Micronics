@@ -1,0 +1,6 @@
+Company: CompanyName
+Order ID: 273109
+Total Price: 3.2 EUR
+VAT Amount: 0.0 EUR
+Items:
+  - 2 x ESPRESSO @ 3.0 EUR, VAT: 18.0% (0.46 EUR)

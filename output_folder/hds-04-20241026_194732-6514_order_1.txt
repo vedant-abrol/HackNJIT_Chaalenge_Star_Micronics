@@ -1,0 +1,9 @@
+Company: CompanyName
+Order ID: 271630
+Total Price: 74.95 EUR
+VAT Amount: 11.43 EUR
+Items:
+  - 4 x Wine Glass Local @ 26.0 EUR, VAT: 18.0% (3.97 EUR)
+  - 1 x Water 0.75 @ 3.95 EUR, VAT: 18.0% (0.6 EUR)
+  - 1 x Cacciatora @ 20.0 EUR, VAT: 18.0% (3.05 EUR)
+  - 1 x Tavolaccio Apericena @ 25.0 EUR, VAT: 18.0% (3.81 EUR)

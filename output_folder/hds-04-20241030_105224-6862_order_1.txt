@@ -1,0 +1,9 @@
+Company: CompanyName
+Order ID: 1430185
+Total Price: 52.5 EUR
+VAT Amount: 8.01 EUR
+Items:
+  - 4 x HANINI YOGHURT @ 4.0 EUR, VAT: 18.0% (0.61 EUR)
+  - 4 x MAIN 7.50 @ 30.0 EUR, VAT: 18.0% (4.58 EUR)
+  - 2 x SALAD 6.50 @ 13.0 EUR, VAT: 18.0% (1.98 EUR)
+  - 1 x SNACK 5.50 @ 5.5 EUR, VAT: 18.0% (0.84 EUR)

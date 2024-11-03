@@ -1,0 +1,9 @@
+Company: CompanyName
+Order ID: 271389
+Total Price: 11.8 EUR
+VAT Amount: 1.79 EUR
+Items:
+  - 1 x ICED AMERICANO @ 3.5 EUR, VAT: 18.0% (0.53 EUR)
+  - 1 x MACCHIATO @ 1.8 EUR, VAT: 18.0% (0.27 EUR)
+  - 1 x ICED LATTE @ 3.5 EUR, VAT: 18.0% (0.53 EUR)
+  - 1 x PISTACHIO COOKIE @ 3.0 EUR, VAT: 18.0% (0.46 EUR)

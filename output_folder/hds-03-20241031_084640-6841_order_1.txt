@@ -1,0 +1,8 @@
+Company: CompanyName
+Order ID: 1433570
+Total Price: 4.6 EUR
+VAT Amount: 0.65 EUR
+Items:
+  - 3 x BCRS @ 0.3 EUR, VAT: 0.0% (0.0 EUR)
+  - 2 x Coffee normal @ 1.6 EUR, VAT: 18.0% (0.24 EUR)
+  - 3 x Still Water (Local) @ 2.7 EUR, VAT: 18.0% (0.41 EUR)

@@ -1,0 +1,6 @@
+Company: CompanyName
+Order ID: 272675
+Total Price: 2.25 EUR
+VAT Amount: 0.34 EUR
+Items:
+  - 1 x Cappuccino @ 2.25 EUR, VAT: 18.0% (0.34 EUR)

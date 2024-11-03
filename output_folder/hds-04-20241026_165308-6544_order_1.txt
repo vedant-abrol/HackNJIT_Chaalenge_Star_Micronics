@@ -1,0 +1,9 @@
+Company: CompanyName
+Order ID: 271529
+Total Price: 43.85 EUR
+VAT Amount: 6.68 EUR
+Items:
+  - 1 x 6 PIECE @ 13.65 EUR, VAT: 18.0% (2.08 EUR)
+  - 1 x 6 STRIPS @ 6.85 EUR, VAT: 18.0% (1.04 EUR)
+  - 1 x 20 WINGS @ 18.75 EUR, VAT: 18.0% (2.86 EUR)
+  - 2 x Small Fries @ 4.6 EUR, VAT: 18.0% (0.7 EUR)

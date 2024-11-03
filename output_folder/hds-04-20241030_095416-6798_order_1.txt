@@ -1,0 +1,10 @@
+Company: CompanyName
+Order ID: 274107
+Total Price: 22.6 EUR
+VAT Amount: 3.44 EUR
+Items:
+  - 1 x ICED AMERICANO @ 3.5 EUR, VAT: 18.0% (0.53 EUR)
+  - 2 x FLAT WHITE @ 7.0 EUR, VAT: 18.0% (1.07 EUR)
+  - 1 x ICED LATTE @ 3.5 EUR, VAT: 18.0% (0.53 EUR)
+  - 2 x VANILLA MUFFIN @ 5.6 EUR, VAT: 18.0% (0.85 EUR)
+  - 1 x WHITE CHOC OB @ 3.0 EUR, VAT: 18.0% (0.46 EUR)

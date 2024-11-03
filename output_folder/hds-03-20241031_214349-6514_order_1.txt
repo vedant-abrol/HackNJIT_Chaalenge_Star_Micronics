@@ -1,0 +1,9 @@
+Company: CompanyName
+Order ID: 275864
+Total Price: 141.0 EUR
+VAT Amount: 21.51 EUR
+Items:
+  - 3 x Malvasia Bianca del Salento Feudi Salentini, Puglia @ 84.0 EUR, VAT: 18.0% (12.81 EUR)
+  - 2 x Focaccia con salame Finocchiona @ 23.0 EUR, VAT: 18.0% (3.51 EUR)
+  - 1 x Tavoletta salumi @ 16.0 EUR, VAT: 18.0% (2.44 EUR)
+  - 1 x Tavoletta formaggi @ 18.0 EUR, VAT: 18.0% (2.75 EUR)

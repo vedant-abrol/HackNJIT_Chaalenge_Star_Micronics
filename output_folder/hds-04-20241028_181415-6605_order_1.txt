@@ -1,0 +1,19 @@
+Company: CompanyName
+Order ID: 272838
+Total Price: 610.72 EUR
+VAT Amount: 93.47 EUR
+Items:
+  - 5 x Classic Burger, Our Way @ 56.75 EUR, VAT: 18.0% (8.66 EUR)
+  - 5 x The Heirloom Shroom Burger @ 62.5 EUR, VAT: 18.0% (9.53 EUR)
+  - 5 x GBD Fried Chicken Burger @ 62.5 EUR, VAT: 18.0% (9.53 EUR)
+  - 5 x BBQ Pulled Pork Burger @ 62.5 EUR, VAT: 18.0% (9.53 EUR)
+  - 5 x Fresh Falafel Salad @ 47.5 EUR, VAT: 18.0% (7.25 EUR)
+  - 6 x Pumpkin & Gbejna Salad @ 57.0 EUR, VAT: 18.0% (8.69 EUR)
+  - 6 x Rice Superpower Salad @ 57.0 EUR, VAT: 18.0% (8.69 EUR)
+  - 5 x Burrata & Grilled Peach Salad @ 52.5 EUR, VAT: 18.0% (8.01 EUR)
+  - 5 x Halloumi Quinoa Salad @ 54.5 EUR, VAT: 18.0% (8.31 EUR)
+  - 5 x Camemberry Salad @ 54.5 EUR, VAT: 18.0% (8.31 EUR)
+  - 3 x Breakfast Croissant Sandwich @ 17.85 EUR, VAT: 18.0% (2.72 EUR)
+  - 3 x Truffle Burrata Croissant Sandwich @ 22.5 EUR, VAT: 18.0% (3.43 EUR)
+  - 2 x Still Water @ 2.4 EUR, VAT: 18.0% (0.37 EUR)
+  - 2 x BCRS @ 0.2 EUR, VAT: 0.0% (0.0 EUR)

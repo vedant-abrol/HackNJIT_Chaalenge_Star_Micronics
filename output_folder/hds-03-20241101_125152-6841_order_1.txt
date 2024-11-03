@@ -1,0 +1,11 @@
+Company: CompanyName
+Order ID: 1439179
+Total Price: 39.8 EUR
+VAT Amount: 5.95 EUR
+Items:
+  - 7 x BCRS @ 0.7 EUR, VAT: 0.0% (0.0 EUR)
+  - 4 x Bounty @ 5.6 EUR, VAT: 18.0% (0.85 EUR)
+  - 6 x Excel @ 11.4 EUR, VAT: 18.0% (1.74 EUR)
+  - 1 x Glass of Wine @ 1.9 EUR, VAT: 18.0% (0.29 EUR)
+  - 4 x M & Ms @ 5.6 EUR, VAT: 18.0% (0.85 EUR)
+  - 4 x Twistees @ 4.0 EUR, VAT: 18.0% (0.61 EUR)

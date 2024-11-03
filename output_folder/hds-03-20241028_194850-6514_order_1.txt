@@ -1,0 +1,10 @@
+Company: CompanyName
+Order ID: 272869
+Total Price: 63.95 EUR
+VAT Amount: 9.75 EUR
+Items:
+  - 2 x Wine Glass Local @ 13.0 EUR, VAT: 18.0% (1.98 EUR)
+  - 1 x Water 0.75 @ 3.95 EUR, VAT: 18.0% (0.6 EUR)
+  - 1 x Polpo al piatto @ 20.0 EUR, VAT: 18.0% (3.05 EUR)
+  - 1 x Cacciatora @ 20.0 EUR, VAT: 18.0% (3.05 EUR)
+  - 1 x Tiramisu @ 7.0 EUR, VAT: 18.0% (1.07 EUR)

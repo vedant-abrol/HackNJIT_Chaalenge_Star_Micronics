@@ -1,0 +1,10 @@
+Company: CompanyName
+Order ID: 271788
+Total Price: 20.05 EUR
+VAT Amount: 3.06 EUR
+Items:
+  - 1 x Better Meal @ 7.95 EUR, VAT: 18.0% (1.21 EUR)
+  - 2 x BCRS @ 0.2 EUR, VAT: 18.0% (0.03 EUR)
+  - 1 x 1 PIECE @ 1.75 EUR, VAT: 18.0% (0.27 EUR)
+  - 1 x Felix Burger Meal @ 7.95 EUR, VAT: 18.0% (1.21 EUR)
+  - 1 x Muffins Chocolate @ 2.2 EUR, VAT: 18.0% (0.34 EUR)

@@ -1,0 +1,6 @@
+Company: CompanyName
+Order ID: 274904
+Total Price: 17.5 EUR
+VAT Amount: 2.67 EUR
+Items:
+  - 7 x Tequila Rose @ 17.5 EUR, VAT: 18.0% (2.67 EUR)

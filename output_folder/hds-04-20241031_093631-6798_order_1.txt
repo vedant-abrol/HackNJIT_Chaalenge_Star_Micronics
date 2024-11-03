@@ -1,0 +1,7 @@
+Company: CompanyName
+Order ID: 275105
+Total Price: 8.0 EUR
+VAT Amount: 1.22 EUR
+Items:
+  - 2 x CAPPUCCINO @ 5.0 EUR, VAT: 18.0% (0.76 EUR)
+  - 1 x DOUBLE ESPRESSO @ 3.0 EUR, VAT: 18.0% (0.46 EUR)

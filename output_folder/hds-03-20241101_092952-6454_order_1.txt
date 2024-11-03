@@ -1,0 +1,8 @@
+Company: CompanyName
+Order ID: 1437793
+Total Price: 9.0 EUR
+VAT Amount: 1.14 EUR
+Items:
+  - 1 x Crisps @ 1.5 EUR, VAT: 0.0% (0.0 EUR)
+  - 1 x Iced Coffee (ice & milk) @ 3.5 EUR, VAT: 18.0% (0.53 EUR)
+  - 1 x Milk Shake @ 4.0 EUR, VAT: 18.0% (0.61 EUR)

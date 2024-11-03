@@ -1,0 +1,6 @@
+Company: CompanyName
+Order ID: 271825
+Total Price: 9.75 EUR
+VAT Amount: 1.49 EUR
+Items:
+  - 3 x Slush @ 9.75 EUR, VAT: 18.0% (1.49 EUR)

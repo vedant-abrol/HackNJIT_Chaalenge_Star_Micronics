@@ -1,0 +1,8 @@
+Company: CompanyName
+Order ID: 271714
+Total Price: 9.2 EUR
+VAT Amount: 0.0 EUR
+Items:
+  - 1 x Latte @ 2.5 EUR, VAT: 18.0% (0.38 EUR)
+  - 1 x Americano @ 2.2 EUR, VAT: 18.0% (0.34 EUR)
+  - 1 x Milkshakes @ 4.0 EUR, VAT: 18.0% (0.61 EUR)

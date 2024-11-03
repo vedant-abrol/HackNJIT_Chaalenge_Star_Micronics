@@ -1,0 +1,7 @@
+Company: CompanyName
+Order ID: 276187
+Total Price: 14.95 EUR
+VAT Amount: 2.29 EUR
+Items:
+  - 1 x Short Ribs Mac N Cheese @ 12.95 EUR, VAT: 18.0% (1.98 EUR)
+  - 1 x Pepsi @ 2.0 EUR, VAT: 18.0% (0.31 EUR)

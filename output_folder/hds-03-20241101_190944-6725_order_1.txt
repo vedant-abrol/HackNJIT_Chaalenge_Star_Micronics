@@ -1,0 +1,8 @@
+Company: CompanyName
+Order ID: 276678
+Total Price: 35.35 EUR
+VAT Amount: 5.39 EUR
+Items:
+  - 1 x Gentleman's Jack @ 14.95 EUR, VAT: 18.0% (2.28 EUR)
+  - 1 x Mighty Blue @ 15.95 EUR, VAT: 18.0% (2.43 EUR)
+  - 1 x Pulled Beef Fries @ 4.45 EUR, VAT: 18.0% (0.68 EUR)

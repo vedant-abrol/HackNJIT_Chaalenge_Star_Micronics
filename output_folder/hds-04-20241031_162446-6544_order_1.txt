@@ -1,0 +1,6 @@
+Company: CompanyName
+Order ID: 275771
+Total Price: 5.25 EUR
+VAT Amount: 0.8 EUR
+Items:
+  - 1 x 3 PIECE @ 5.25 EUR, VAT: 18.0% (0.8 EUR)

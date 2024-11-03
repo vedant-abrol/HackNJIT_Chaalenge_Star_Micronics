@@ -1,0 +1,8 @@
+Company: CompanyName
+Order ID: 271164
+Total Price: 41.6 EUR
+VAT Amount: 5.34 EUR
+Items:
+  - 1 x Mixed Dim Sum Platter (4pcs) @ 6.6 EUR, VAT: 0.0% (0.0 EUR)
+  - 1 x Chicken Springrolls (3pcs) Chả giò Gà @ 6.0 EUR, VAT: 18.0% (0.92 EUR)
+  - 2 x Saigon Rice: Premium. Cơm sườn Chả Trứng. @ 29.0 EUR, VAT: 18.0% (4.42 EUR)

@@ -1,0 +1,9 @@
+Company: CompanyName
+Order ID: 271584
+Total Price: 26.05 EUR
+VAT Amount: 3.98 EUR
+Items:
+  - 1 x Pork bun - Bánh bao nhân thịt @ 6.2 EUR, VAT: 18.0% (0.95 EUR)
+  - 1 x Beef Pho @ 13.5 EUR, VAT: 18.0% (2.06 EUR)
+  - 1 x Longan and Jelly sweet desert. @ 3.85 EUR, VAT: 18.0% (0.59 EUR)
+  - 1 x Pepsi 500ml @ 2.5 EUR, VAT: 18.0% (0.38 EUR)

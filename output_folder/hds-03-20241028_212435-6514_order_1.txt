@@ -1,0 +1,8 @@
+Company: CompanyName
+Order ID: 272885
+Total Price: 85.0 EUR
+VAT Amount: 12.97 EUR
+Items:
+  - 2 x Tavolaccio Apericena @ 50.0 EUR, VAT: 18.0% (7.63 EUR)
+  - 1 x Chianti Classico Barone Ricasoli, Toscana @ 28.0 EUR, VAT: 18.0% (4.27 EUR)
+  - 1 x Tiramisu @ 7.0 EUR, VAT: 18.0% (1.07 EUR)

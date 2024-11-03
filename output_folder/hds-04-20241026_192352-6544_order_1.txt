@@ -1,0 +1,7 @@
+Company: CompanyName
+Order ID: 271617
+Total Price: 18.15 EUR
+VAT Amount: 2.77 EUR
+Items:
+  - 1 x 6 PIECE BUCKET- 2driks @ 17.95 EUR, VAT: 18.0% (2.74 EUR)
+  - 2 x BCRS @ 0.2 EUR, VAT: 18.0% (0.03 EUR)

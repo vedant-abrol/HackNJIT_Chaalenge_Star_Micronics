@@ -1,0 +1,7 @@
+Company: CompanyName
+Order ID: 274845
+Total Price: 5.0 EUR
+VAT Amount: 0.76 EUR
+Items:
+  - 1 x Blue Label @ 4.0 EUR, VAT: 18.0% (0.61 EUR)
+  - 1 x Small Still Water @ 1.0 EUR, VAT: 18.0% (0.15 EUR)

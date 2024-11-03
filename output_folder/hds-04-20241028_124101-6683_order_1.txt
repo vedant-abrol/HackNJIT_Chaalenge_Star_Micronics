@@ -1,0 +1,8 @@
+Company: CompanyName
+Order ID: 272583
+Total Price: 19.5 EUR
+VAT Amount: 2.98 EUR
+Items:
+  - 2 x Banh Mi Grilled Pork @ 14.0 EUR, VAT: 18.0% (2.14 EUR)
+  - 1 x Bac xiu coffee @ 3.0 EUR, VAT: 18.0% (0.46 EUR)
+  - 1 x Vietnamese Brown Coffee H/C @ 2.5 EUR, VAT: 18.0% (0.38 EUR)

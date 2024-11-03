@@ -1,0 +1,8 @@
+Company: CompanyName
+Order ID: 276700
+Total Price: 69.75 EUR
+VAT Amount: 10.63 EUR
+Items:
+  - 3 x Gentleman's Jack @ 41.85 EUR, VAT: 18.0% (6.38 EUR)
+  - 1 x Classic Cheese @ 11.95 EUR, VAT: 18.0% (1.82 EUR)
+  - 1 x Cheese Buds @ 15.95 EUR, VAT: 18.0% (2.43 EUR)

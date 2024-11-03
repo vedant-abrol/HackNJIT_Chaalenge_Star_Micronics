@@ -1,0 +1,6 @@
+Company: CompanyName
+Order ID: 276843
+Total Price: 9.0 EUR
+VAT Amount: 1.37 EUR
+Items:
+  - 3 x DOUBLE ESPRESSO @ 9.0 EUR, VAT: 18.0% (1.37 EUR)

@@ -1,0 +1,9 @@
+Company: CompanyName
+Order ID: 271105
+Total Price: 11.3 EUR
+VAT Amount: 1.68 EUR
+Items:
+  - 1 x Cidre @ 3.4 EUR, VAT: 18.0% (0.52 EUR)
+  - 3 x BCRS @ 0.3 EUR, VAT: 0.0% (0.0 EUR)
+  - 1 x Guinness @ 4.9 EUR, VAT: 18.0% (0.75 EUR)
+  - 1 x Cisk Excel @ 2.7 EUR, VAT: 18.0% (0.41 EUR)

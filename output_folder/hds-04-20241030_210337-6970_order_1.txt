@@ -1,0 +1,10 @@
+Company: CompanyName
+Order ID: 1432969
+Total Price: 33.2 EUR
+VAT Amount: 4.42 EUR
+Items:
+  - 2 x BCRS @ 0.2 EUR, VAT: 0.0% (0.0 EUR)
+  - 1 x Chicken Burger @ 12.5 EUR, VAT: 18.0% (1.91 EUR)
+  - 1 x Large Still Water @ 3.5 EUR, VAT: 18.0% (0.53 EUR)
+  - 2 x Pepsi @ 4.0 EUR, VAT: 0.0% (0.0 EUR)
+  - 1 x Pulled Beef Pasta @ 13.0 EUR, VAT: 18.0% (1.98 EUR)

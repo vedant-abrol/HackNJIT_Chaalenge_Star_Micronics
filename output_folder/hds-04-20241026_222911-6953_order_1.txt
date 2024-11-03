@@ -1,0 +1,7 @@
+Company: CompanyName
+Order ID: 1419001
+Total Price: 9.25 EUR
+VAT Amount: 1.41 EUR
+Items:
+  - 1 x Cool King Burger Meal @ 8.65 EUR, VAT: 18.0% (1.32 EUR)
+  - 2 x Mayonnaise @ 0.6 EUR, VAT: 18.0% (0.09 EUR)

@@ -1,0 +1,14 @@
+Company: CompanyName
+Order ID: 271642
+Total Price: 181.95 EUR
+VAT Amount: 27.74 EUR
+Items:
+  - 1 x Grillo D.O.C. (BIO) (VEG) Alcesti, Sicilia @ 28.0 EUR, VAT: 18.0% (4.27 EUR)
+  - 2 x Burrata @ 36.0 EUR, VAT: 18.0% (5.49 EUR)
+  - 1 x Polpo al piatto @ 20.0 EUR, VAT: 18.0% (3.05 EUR)
+  - 1 x Carpaccio Beef @ 20.0 EUR, VAT: 18.0% (3.05 EUR)
+  - 1 x Carpaccio Seabrim @ 20.0 EUR, VAT: 18.0% (3.05 EUR)
+  - 1 x Water 0.75 @ 3.95 EUR, VAT: 18.0% (0.6 EUR)
+  - 2 x Koccio Spritz @ 20.0 EUR, VAT: 18.0% (3.05 EUR)
+  - 1 x Koccio Negroni @ 11.5 EUR, VAT: 18.0% (1.75 EUR)
+  - 3 x Cheesecake @ 22.5 EUR, VAT: 18.0% (3.43 EUR)

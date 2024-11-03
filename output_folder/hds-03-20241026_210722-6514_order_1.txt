@@ -1,0 +1,9 @@
+Company: CompanyName
+Order ID: 271647
+Total Price: 88.95 EUR
+VAT Amount: 13.57 EUR
+Items:
+  - 2 x Soft Drinks @ 7.0 EUR, VAT: 18.0% (1.07 EUR)
+  - 1 x Water 0.75 @ 3.95 EUR, VAT: 18.0% (0.6 EUR)
+  - 1 x ‘Lume’ Trebbiano d’Abruzzo D.O.C. Ilauri, Abruzzo @ 28.0 EUR, VAT: 18.0% (4.27 EUR)
+  - 2 x Tavolaccio Apericena @ 50.0 EUR, VAT: 18.0% (7.63 EUR)

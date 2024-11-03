@@ -1,0 +1,7 @@
+Company: CompanyName
+Order ID: 275750
+Total Price: 5.3 EUR
+VAT Amount: 0.81 EUR
+Items:
+  - 1 x Pepsi 500ml @ 2.0 EUR, VAT: 18.0% (0.31 EUR)
+  - 1 x Cisk Lager 50cl @ 3.3 EUR, VAT: 18.0% (0.5 EUR)

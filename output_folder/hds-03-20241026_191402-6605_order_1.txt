@@ -1,0 +1,23 @@
+Company: CompanyName
+Order ID: 271612
+Total Price: 633.42 EUR
+VAT Amount: 97.03 EUR
+Items:
+  - 3 x Classic Burger, Our Way @ 37.5 EUR, VAT: 18.0% (5.72 EUR)
+  - 5 x Fresh Falafel Salad @ 47.5 EUR, VAT: 18.0% (7.25 EUR)
+  - 5 x Pumpkin & Gbejna Salad @ 47.5 EUR, VAT: 18.0% (7.25 EUR)
+  - 5 x Rice Superpower Salad @ 47.5 EUR, VAT: 18.0% (7.25 EUR)
+  - 5 x Burrata & Grilled Peach Salad @ 52.5 EUR, VAT: 18.0% (8.01 EUR)
+  - 5 x Halloumi Quinoa Salad @ 54.5 EUR, VAT: 18.0% (8.31 EUR)
+  - 5 x Camemberry Salad @ 54.5 EUR, VAT: 18.0% (8.31 EUR)
+  - 5 x Breakfast Croissant Sandwich @ 29.75 EUR, VAT: 18.0% (4.54 EUR)
+  - 5 x Chocolate S'mores Pancakes @ 37.5 EUR, VAT: 18.0% (5.72 EUR)
+  - 5 x Lemon Berry Cheesecake Pancakes @ 37.5 EUR, VAT: 18.0% (5.72 EUR)
+  - 3 x Pistachio Cannolo Pancakes @ 22.5 EUR, VAT: 18.0% (3.43 EUR)
+  - 4 x Heirloom Breakfast Box @ 39.6 EUR, VAT: 18.0% (6.04 EUR)
+  - 4 x French Onion Toastie @ 18.0 EUR, VAT: 18.0% (2.75 EUR)
+  - 4 x Classic Toastie @ 14.0 EUR, VAT: 18.0% (2.14 EUR)
+  - 4 x Holy Guacamole @ 31.6 EUR, VAT: 18.0% (4.82 EUR)
+  - 3 x Wild Mushroom @ 23.7 EUR, VAT: 18.0% (3.62 EUR)
+  - 3 x Bagel & Lox @ 26.7 EUR, VAT: 18.0% (4.07 EUR)
+  - 3 x Salt & Pepper Fries @ 10.5 EUR, VAT: 18.0% (1.6 EUR)

@@ -1,0 +1,6 @@
+Company: CompanyName
+Order ID: 1423004
+Total Price: 7.99 EUR
+VAT Amount: 1.22 EUR
+Items:
+  - 1 x Chicken Fusion Salad @ 7.99 EUR, VAT: 18.0% (1.22 EUR)

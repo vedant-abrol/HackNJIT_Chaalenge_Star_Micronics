@@ -1,0 +1,6 @@
+Company: CompanyName
+Order ID: 1441093
+Total Price: 17.8 EUR
+VAT Amount: 2.72 EUR
+Items:
+  - 2 x Spicy Kick Fillet Meal @ 17.8 EUR, VAT: 18.0% (2.72 EUR)

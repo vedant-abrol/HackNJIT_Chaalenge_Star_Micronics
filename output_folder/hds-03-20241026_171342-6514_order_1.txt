@@ -1,0 +1,9 @@
+Company: CompanyName
+Order ID: 271544
+Total Price: 44.45 EUR
+VAT Amount: 6.78 EUR
+Items:
+  - 1 x Polpo al piatto @ 20.0 EUR, VAT: 18.0% (3.05 EUR)
+  - 1 x Tozzo Fish @ 15.0 EUR, VAT: 18.0% (2.29 EUR)
+  - 1 x Cisk Pint @ 5.5 EUR, VAT: 18.0% (0.84 EUR)
+  - 1 x Water 0.75 @ 3.95 EUR, VAT: 18.0% (0.6 EUR)

@@ -1,0 +1,6 @@
+Company: CompanyName
+Order ID: 1421532
+Total Price: 4.0 EUR
+VAT Amount: 0.61 EUR
+Items:
+  - 2 x Cappucino @ 4.0 EUR, VAT: 18.0% (0.61 EUR)

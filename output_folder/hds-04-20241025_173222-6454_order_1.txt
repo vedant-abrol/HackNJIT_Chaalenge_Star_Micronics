@@ -1,0 +1,7 @@
+Company: CompanyName
+Order ID: 1416854
+Total Price: 2.5 EUR
+VAT Amount: 0.38 EUR
+Items:
+  - 1 x Almond cake @ 1.5 EUR, VAT: 18.0% (0.23 EUR)
+  - 1 x Instant Coffee @ 1.0 EUR, VAT: 18.0% (0.15 EUR)

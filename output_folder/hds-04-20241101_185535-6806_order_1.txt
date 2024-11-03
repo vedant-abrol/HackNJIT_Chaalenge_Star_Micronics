@@ -1,0 +1,6 @@
+Company: CompanyName
+Order ID: 276666
+Total Price: 14.0 EUR
+VAT Amount: 2.14 EUR
+Items:
+  - 4 x Jameson @ 14.0 EUR, VAT: 18.0% (2.14 EUR)

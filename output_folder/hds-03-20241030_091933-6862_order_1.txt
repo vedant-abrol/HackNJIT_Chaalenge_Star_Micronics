@@ -1,0 +1,6 @@
+Company: CompanyName
+Order ID: 1429753
+Total Price: 1.0 EUR
+VAT Amount: 0.15 EUR
+Items:
+  - 1 x WATER @ 1.0 EUR, VAT: 18.0% (0.15 EUR)

@@ -1,0 +1,7 @@
+Company: CompanyName
+Order ID: 1432604
+Total Price: 18.6 EUR
+VAT Amount: 2.84 EUR
+Items:
+  - 3 x Iced Coffee (icecream) @ 15.0 EUR, VAT: 18.0% (2.29 EUR)
+  - 1 x Scoops @ 3.6 EUR, VAT: 18.0% (0.55 EUR)

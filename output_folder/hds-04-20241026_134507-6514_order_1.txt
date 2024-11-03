@@ -1,0 +1,8 @@
+Company: CompanyName
+Order ID: 271453
+Total Price: 23.0 EUR
+VAT Amount: 3.51 EUR
+Items:
+  - 2 x Soft Drinks @ 7.0 EUR, VAT: 18.0% (1.07 EUR)
+  - 1 x Wine Glass Local @ 6.5 EUR, VAT: 18.0% (0.99 EUR)
+  - 1 x Cocktail @ 9.5 EUR, VAT: 18.0% (1.45 EUR)

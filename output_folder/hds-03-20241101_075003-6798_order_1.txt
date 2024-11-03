@@ -1,0 +1,6 @@
+Company: CompanyName
+Order ID: 275909
+Total Price: 3.7 EUR
+VAT Amount: 0.56 EUR
+Items:
+  - 1 x LARE CAPPUCCINO @ 3.7 EUR, VAT: 18.0% (0.56 EUR)

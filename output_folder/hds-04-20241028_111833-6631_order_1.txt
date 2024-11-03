@@ -1,0 +1,8 @@
+Company: CompanyName
+Order ID: 272314
+Total Price: 9.0 EUR
+VAT Amount: 1.34 EUR
+Items:
+  - 2 x Espresso Lungo @ 4.0 EUR, VAT: 18.0% (0.61 EUR)
+  - 2 x Soft drinks @ 4.8 EUR, VAT: 18.0% (0.73 EUR)
+  - 2 x BCRS @ 0.2 EUR, VAT: 0.0% (0.0 EUR)

@@ -1,0 +1,5 @@
+Company: CompanyName
+Order ID: 1425161
+Total Price: 4.5 EUR
+VAT Amount: 3.81 EUR
+Items:

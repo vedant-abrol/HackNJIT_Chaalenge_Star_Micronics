@@ -1,0 +1,9 @@
+Company: CompanyName
+Order ID: 275972
+Total Price: 10.7 EUR
+VAT Amount: 1.63 EUR
+Items:
+  - 1 x CAPPUCCINO @ 2.5 EUR, VAT: 18.0% (0.38 EUR)
+  - 1 x ESPRESSO @ 1.5 EUR, VAT: 18.0% (0.23 EUR)
+  - 1 x PISTACHIO CROISSANT @ 3.2 EUR, VAT: 18.0% (0.49 EUR)
+  - 1 x ALMOND CROISSANT @ 3.5 EUR, VAT: 18.0% (0.53 EUR)

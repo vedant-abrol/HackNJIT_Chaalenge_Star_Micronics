@@ -1,0 +1,5 @@
+Company: CompanyName
+Order ID: 1424560
+Total Price: 0.0 EUR
+VAT Amount: 0.0 EUR
+Items:

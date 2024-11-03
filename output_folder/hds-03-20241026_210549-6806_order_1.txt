@@ -1,0 +1,6 @@
+Company: CompanyName
+Order ID: 271646
+Total Price: 6.0 EUR
+VAT Amount: 0.92 EUR
+Items:
+  - 2 x Bombay @ 6.0 EUR, VAT: 18.0% (0.92 EUR)

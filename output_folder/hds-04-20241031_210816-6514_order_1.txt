@@ -1,0 +1,6 @@
+Company: CompanyName
+Order ID: 275856
+Total Price: 19.0 EUR
+VAT Amount: 2.9 EUR
+Items:
+  - 2 x Cocktail @ 19.0 EUR, VAT: 18.0% (2.9 EUR)

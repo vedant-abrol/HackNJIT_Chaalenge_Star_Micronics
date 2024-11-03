@@ -1,0 +1,9 @@
+Company: CompanyName
+Order ID: 1439623
+Total Price: 9.0 EUR
+VAT Amount: 1.33 EUR
+Items:
+  - 3 x BCRS @ 0.3 EUR, VAT: 0.0% (0.0 EUR)
+  - 1 x Ham & Cheese Roll @ 4.0 EUR, VAT: 18.0% (0.61 EUR)
+  - 2 x Sparkling Flavoured Water @ 3.8 EUR, VAT: 18.0% (0.58 EUR)
+  - 1 x Still Water (Local) @ 0.9 EUR, VAT: 18.0% (0.14 EUR)

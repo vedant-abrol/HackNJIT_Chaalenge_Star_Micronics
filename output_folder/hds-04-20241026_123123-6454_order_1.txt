@@ -1,0 +1,9 @@
+Company: CompanyName
+Order ID: 1417860
+Total Price: 4.7 EUR
+VAT Amount: 0.68 EUR
+Items:
+  - 2 x BCRS @ 0.2 EUR, VAT: 0.0% (0.0 EUR)
+  - 1 x Soft Drinks @ 1.9 EUR, VAT: 18.0% (0.29 EUR)
+  - 2 x Tea @ 1.6 EUR, VAT: 18.0% (0.24 EUR)
+  - 1 x Water @ 1.0 EUR, VAT: 18.0% (0.15 EUR)

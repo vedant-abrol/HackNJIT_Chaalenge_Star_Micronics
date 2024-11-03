@@ -1,0 +1,11 @@
+Company: CompanyName
+Order ID: 1424082
+Total Price: 15.0 EUR
+VAT Amount: 2.27 EUR
+Items:
+  - 1 x BCRS @ 0.1 EUR, VAT: 0.0% (0.0 EUR)
+  - 1 x Egg bacon sausage & cheese @ 4.0 EUR, VAT: 18.0% (0.61 EUR)
+  - 1 x Ham & Cheese Roll @ 4.0 EUR, VAT: 18.0% (0.61 EUR)
+  - 2 x Ham and Cheese Toast @ 3.4 EUR, VAT: 18.0% (0.52 EUR)
+  - 1 x Pepsi @ 1.9 EUR, VAT: 18.0% (0.29 EUR)
+  - 2 x Tea normal @ 1.6 EUR, VAT: 18.0% (0.24 EUR)

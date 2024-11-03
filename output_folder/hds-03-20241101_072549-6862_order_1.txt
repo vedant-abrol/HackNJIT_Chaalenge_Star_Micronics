@@ -1,0 +1,7 @@
+Company: CompanyName
+Order ID: 1437301
+Total Price: 3.5 EUR
+VAT Amount: 0.53 EUR
+Items:
+  - 1 x CROSSAINTS @ 2.5 EUR, VAT: 18.0% (0.38 EUR)
+  - 1 x WATER @ 1.0 EUR, VAT: 18.0% (0.15 EUR)

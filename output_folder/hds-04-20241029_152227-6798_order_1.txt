@@ -1,0 +1,6 @@
+Company: CompanyName
+Order ID: 273762
+Total Price: 2.7 EUR
+VAT Amount: 0.41 EUR
+Items:
+  - 1 x CAPPUCCINO @ 2.7 EUR, VAT: 18.0% (0.41 EUR)

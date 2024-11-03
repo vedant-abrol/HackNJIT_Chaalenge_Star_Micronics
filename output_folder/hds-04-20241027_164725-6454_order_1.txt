@@ -1,0 +1,10 @@
+Company: CompanyName
+Order ID: 1420479
+Total Price: 13.3 EUR
+VAT Amount: 1.98 EUR
+Items:
+  - 3 x BCRS @ 0.3 EUR, VAT: 0.0% (0.0 EUR)
+  - 1 x Nestle Boss/ Maxibon/ Kaktus @ 3.9 EUR, VAT: 18.0% (0.59 EUR)
+  - 2 x Scoops @ 5.6 EUR, VAT: 18.0% (0.85 EUR)
+  - 2 x Water @ 2.0 EUR, VAT: 18.0% (0.31 EUR)
+  - 1 x Water @ 1.5 EUR, VAT: 18.0% (0.23 EUR)

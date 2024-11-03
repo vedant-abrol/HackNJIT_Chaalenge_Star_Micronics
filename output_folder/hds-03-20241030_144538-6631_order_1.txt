@@ -1,0 +1,7 @@
+Company: CompanyName
+Order ID: 274760
+Total Price: 17.2 EUR
+VAT Amount: 2.63 EUR
+Items:
+  - 6 x 1 Scoop @ 15.0 EUR, VAT: 18.0% (2.29 EUR)
+  - 1 x Muffin @ 2.2 EUR, VAT: 18.0% (0.34 EUR)

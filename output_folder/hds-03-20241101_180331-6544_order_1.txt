@@ -1,0 +1,9 @@
+Company: CompanyName
+Order ID: 276641
+Total Price: 17.51 EUR
+VAT Amount: 2.67 EUR
+Items:
+  - 3 x Felix Burger Meal @ 15.51 EUR, VAT: 18.0% (2.37 EUR)
+  - 3 x BCRS @ 0.15 EUR, VAT: 18.0% (0.02 EUR)
+  - 3 x EXTRA  AMOUNT @ 1.5 EUR, VAT: 18.0% (0.23 EUR)
+  - 1 x Spicy Sauce @ 0.35 EUR, VAT: 18.0% (0.05 EUR)

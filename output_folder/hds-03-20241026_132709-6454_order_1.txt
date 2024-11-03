@@ -1,0 +1,8 @@
+Company: CompanyName
+Order ID: 1417926
+Total Price: 4.2 EUR
+VAT Amount: 0.61 EUR
+Items:
+  - 2 x BCRS @ 0.2 EUR, VAT: 0.0% (0.0 EUR)
+  - 1 x Lemon Soda @ 1.5 EUR, VAT: 18.0% (0.23 EUR)
+  - 1 x Red Bull @ 2.5 EUR, VAT: 18.0% (0.38 EUR)

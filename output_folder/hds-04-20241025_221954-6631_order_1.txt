@@ -1,0 +1,10 @@
+Company: CompanyName
+Order ID: 271256
+Total Price: 34.0 EUR
+VAT Amount: 5.11 EUR
+Items:
+  - 3 x Soft drinks @ 7.2 EUR, VAT: 18.0% (1.1 EUR)
+  - 5 x BCRS @ 0.5 EUR, VAT: 0.0% (0.0 EUR)
+  - 2 x 2 Scoop @ 8.0 EUR, VAT: 18.0% (1.22 EUR)
+  - 2 x Powerade @ 4.8 EUR, VAT: 18.0% (0.73 EUR)
+  - 3 x Fresh Orange Juice @ 13.5 EUR, VAT: 18.0% (2.06 EUR)

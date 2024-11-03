@@ -1,0 +1,10 @@
+Company: CompanyName
+Order ID: 271206
+Total Price: 13.35 EUR
+VAT Amount: 2.04 EUR
+Items:
+  - 1 x 2 PIECE @ 3.5 EUR, VAT: 18.0% (0.53 EUR)
+  - 1 x Small Fries @ 1.75 EUR, VAT: 18.0% (0.27 EUR)
+  - 1 x ONION RINGS 8 @ 1.95 EUR, VAT: 18.0% (0.3 EUR)
+  - 3 x PEPSI @ 5.85 EUR, VAT: 18.0% (0.89 EUR)
+  - 3 x BCRS @ 0.3 EUR, VAT: 18.0% (0.05 EUR)

@@ -1,0 +1,11 @@
+Company: CompanyName
+Order ID: 1419741
+Total Price: 11.2 EUR
+VAT Amount: 1.62 EUR
+Items:
+  - 6 x BCRS @ 0.6 EUR, VAT: 0.0% (0.0 EUR)
+  - 1 x Cisk @ 1.5 EUR, VAT: 18.0% (0.23 EUR)
+  - 1 x Cisk @ 2.2 EUR, VAT: 18.0% (0.34 EUR)
+  - 2 x Heineken @ 4.4 EUR, VAT: 18.0% (0.67 EUR)
+  - 1 x Water @ 1.0 EUR, VAT: 18.0% (0.15 EUR)
+  - 1 x Water @ 1.5 EUR, VAT: 18.0% (0.23 EUR)

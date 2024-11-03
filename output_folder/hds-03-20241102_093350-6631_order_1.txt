@@ -1,0 +1,5 @@
+Company: CompanyName
+Order ID: 276827
+Total Price: 12.0 EUR
+VAT Amount: 0.0 EUR
+Items:

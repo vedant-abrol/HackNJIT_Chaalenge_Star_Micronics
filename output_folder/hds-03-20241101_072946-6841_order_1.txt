@@ -1,0 +1,7 @@
+Company: CompanyName
+Order ID: 1437308
+Total Price: 3.3 EUR
+VAT Amount: 0.5 EUR
+Items:
+  - 1 x Ham and Cheese Toast @ 1.7 EUR, VAT: 18.0% (0.26 EUR)
+  - 2 x Tea normal @ 1.6 EUR, VAT: 18.0% (0.24 EUR)

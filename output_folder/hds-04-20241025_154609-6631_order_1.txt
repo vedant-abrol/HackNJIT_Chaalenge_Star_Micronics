@@ -1,0 +1,6 @@
+Company: CompanyName
+Order ID: 271125
+Total Price: 32.0 EUR
+VAT Amount: 4.88 EUR
+Items:
+  - 8 x 2 Scoop @ 32.0 EUR, VAT: 18.0% (4.88 EUR)

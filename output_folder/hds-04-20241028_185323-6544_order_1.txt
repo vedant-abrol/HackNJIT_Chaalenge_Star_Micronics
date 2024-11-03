@@ -1,0 +1,7 @@
+Company: CompanyName
+Order ID: 272853
+Total Price: 20.25 EUR
+VAT Amount: 3.09 EUR
+Items:
+  - 3 x PEPSI @ 6.6 EUR, VAT: 18.0% (1.01 EUR)
+  - 1 x 6 PIECE @ 13.65 EUR, VAT: 18.0% (2.08 EUR)

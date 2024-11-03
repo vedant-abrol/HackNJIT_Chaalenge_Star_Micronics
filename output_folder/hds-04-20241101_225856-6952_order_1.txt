@@ -1,0 +1,6 @@
+Company: CompanyName
+Order ID: 1441106
+Total Price: 21.8 EUR
+VAT Amount: 3.33 EUR
+Items:
+  - 2 x Classic Duo Sandwitch Meal @ 21.8 EUR, VAT: 18.0% (3.33 EUR)

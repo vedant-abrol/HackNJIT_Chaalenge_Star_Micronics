@@ -1,0 +1,10 @@
+Company: CompanyName
+Order ID: 273794
+Total Price: 11.3 EUR
+VAT Amount: 1.69 EUR
+Items:
+  - 1 x AMERICANO @ 2.0 EUR, VAT: 18.0% (0.31 EUR)
+  - 1 x ESPRESSO @ 1.5 EUR, VAT: 18.0% (0.23 EUR)
+  - 2 x FLAVOURED WATER @ 3.0 EUR, VAT: 18.0% (0.46 EUR)
+  - 3 x BCRS @ 0.3 EUR, VAT: 0.0% (0.0 EUR)
+  - 1 x HIBISCUS @ 4.5 EUR, VAT: 18.0% (0.69 EUR)

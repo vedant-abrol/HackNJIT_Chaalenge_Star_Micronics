@@ -1,0 +1,14 @@
+Company: CompanyName
+Order ID: 274888
+Total Price: 519.01 EUR
+VAT Amount: 79.18 EUR
+Items:
+  - 6 x Chocolate S'mores Pancakes @ 40.11 EUR, VAT: 18.0% (6.12 EUR)
+  - 11 x Heirloom Breakfast Box @ 108.9 EUR, VAT: 18.0% (16.61 EUR)
+  - 5 x Breakfast Sloppy Joe @ 39.5 EUR, VAT: 18.0% (6.03 EUR)
+  - 6 x Classic Burger, Our Way @ 75.0 EUR, VAT: 18.0% (11.44 EUR)
+  - 5 x The Heirloom Shroom Burger @ 62.5 EUR, VAT: 18.0% (9.53 EUR)
+  - 6 x GBD Fried Chicken Burger @ 75.0 EUR, VAT: 18.0% (11.44 EUR)
+  - 4 x Fresh Falafel Salad @ 38.0 EUR, VAT: 18.0% (5.8 EUR)
+  - 4 x Rice Superpower Salad @ 38.0 EUR, VAT: 18.0% (5.8 EUR)
+  - 4 x Burrata & Grilled Peach Salad @ 42.0 EUR, VAT: 18.0% (6.41 EUR)

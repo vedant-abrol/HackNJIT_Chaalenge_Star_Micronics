@@ -1,0 +1,7 @@
+Company: CompanyName
+Order ID: 1440914
+Total Price: 5.6 EUR
+VAT Amount: 0.86 EUR
+Items:
+  - 1 x Glass Rauch Juice @ 1.5 EUR, VAT: 18.0% (0.23 EUR)
+  - 1 x Scoops @ 4.1 EUR, VAT: 18.0% (0.63 EUR)

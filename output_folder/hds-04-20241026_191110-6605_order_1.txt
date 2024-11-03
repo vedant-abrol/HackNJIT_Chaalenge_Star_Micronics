@@ -1,0 +1,10 @@
+Company: CompanyName
+Order ID: 271609
+Total Price: 160.6 EUR
+VAT Amount: 24.52 EUR
+Items:
+  - 5 x The Heirloom Shroom Burger @ 61.25 EUR, VAT: 18.0% (9.34 EUR)
+  - 5 x GBD Fried Chicken Burger @ 62.5 EUR, VAT: 18.0% (9.53 EUR)
+  - 2 x Ain't No Beef Vegan Burger @ 25.0 EUR, VAT: 18.0% (3.81 EUR)
+  - 1 x Burrata & Grilled Peach Salad @ 10.5 EUR, VAT: 18.0% (1.6 EUR)
+  - 1 x Espresso Ristretto @ 1.3 EUR, VAT: 18.0% (0.2 EUR)

@@ -1,0 +1,7 @@
+Company: CompanyName
+Order ID: 1437956
+Total Price: 8.2 EUR
+VAT Amount: 1.26 EUR
+Items:
+  - 1 x Hot chocolate @ 2.2 EUR, VAT: 18.0% (0.34 EUR)
+  - 1 x Imqarrun baked @ 6.0 EUR, VAT: 18.0% (0.92 EUR)

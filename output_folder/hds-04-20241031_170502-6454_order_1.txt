@@ -1,0 +1,8 @@
+Company: CompanyName
+Order ID: 1436669
+Total Price: 3.5 EUR
+VAT Amount: 0.52 EUR
+Items:
+  - 1 x BCRS @ 0.1 EUR, VAT: 0.0% (0.0 EUR)
+  - 1 x Bitter/ Soda/ Tonic/ Ginger @ 1.5 EUR, VAT: 18.0% (0.23 EUR)
+  - 1 x Soft Drinks @ 1.9 EUR, VAT: 18.0% (0.29 EUR)

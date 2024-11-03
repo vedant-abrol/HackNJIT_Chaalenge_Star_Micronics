@@ -1,0 +1,10 @@
+Company: CompanyName
+Order ID: 1420887
+Total Price: 10.4 EUR
+VAT Amount: 1.56 EUR
+Items:
+  - 2 x Americano @ 2.8 EUR, VAT: 18.0% (0.43 EUR)
+  - 2 x BCRS @ 0.2 EUR, VAT: 0.0% (0.0 EUR)
+  - 1 x Cappucino @ 2.0 EUR, VAT: 18.0% (0.31 EUR)
+  - 2 x Croissants @ 3.6 EUR, VAT: 18.0% (0.55 EUR)
+  - 2 x Still Water (Local) @ 1.8 EUR, VAT: 18.0% (0.27 EUR)

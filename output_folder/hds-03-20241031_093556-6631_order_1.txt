@@ -1,0 +1,6 @@
+Company: CompanyName
+Order ID: 275104
+Total Price: 1.8 EUR
+VAT Amount: 0.27 EUR
+Items:
+  - 1 x Espresso @ 1.8 EUR, VAT: 18.0% (0.27 EUR)

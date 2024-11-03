@@ -1,0 +1,6 @@
+Company: CompanyName
+Order ID: 1420503
+Total Price: 2.0 EUR
+VAT Amount: 0.31 EUR
+Items:
+  - 1 x Pudina @ 2.0 EUR, VAT: 18.0% (0.31 EUR)

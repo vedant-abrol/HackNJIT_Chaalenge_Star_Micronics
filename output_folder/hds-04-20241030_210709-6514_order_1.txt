@@ -1,0 +1,7 @@
+Company: CompanyName
+Order ID: 274923
+Total Price: 78.0 EUR
+VAT Amount: 11.9 EUR
+Items:
+  - 2 x Tavolaccio Apericena @ 50.0 EUR, VAT: 18.0% (7.63 EUR)
+  - 1 x ‘Laurenti’ Vermentino Camilleri Winery @ 28.0 EUR, VAT: 18.0% (4.27 EUR)

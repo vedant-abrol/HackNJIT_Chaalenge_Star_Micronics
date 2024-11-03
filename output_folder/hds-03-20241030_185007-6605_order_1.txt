@@ -1,0 +1,6 @@
+Company: CompanyName
+Order ID: 274886
+Total Price: 96.95 EUR
+VAT Amount: 14.79 EUR
+Items:
+  - 8 x Classic Burger, Our Way @ 96.87 EUR, VAT: 18.0% (14.78 EUR)

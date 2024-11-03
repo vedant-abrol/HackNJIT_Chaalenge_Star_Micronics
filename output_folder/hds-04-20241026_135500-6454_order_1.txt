@@ -1,0 +1,6 @@
+Company: CompanyName
+Order ID: 1417976
+Total Price: 4.5 EUR
+VAT Amount: 0.69 EUR
+Items:
+  - 3 x Capuccino @ 4.5 EUR, VAT: 18.0% (0.69 EUR)

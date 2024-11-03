@@ -1,0 +1,9 @@
+Company: CompanyName
+Order ID: 1438415
+Total Price: 16.9 EUR
+VAT Amount: 2.54 EUR
+Items:
+  - 1 x Avocado Toast @ 4.5 EUR, VAT: 18.0% (0.69 EUR)
+  - 3 x BCRS @ 0.3 EUR, VAT: 0.0% (0.0 EUR)
+  - 1 x Eggs Benedict @ 8.5 EUR, VAT: 18.0% (1.3 EUR)
+  - 2 x Still Water @ 3.6 EUR, VAT: 18.0% (0.55 EUR)

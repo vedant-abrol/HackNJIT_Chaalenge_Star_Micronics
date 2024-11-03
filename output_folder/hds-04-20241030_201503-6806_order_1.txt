@@ -1,0 +1,8 @@
+Company: CompanyName
+Order ID: 274907
+Total Price: 15.5 EUR
+VAT Amount: 2.37 EUR
+Items:
+  - 1 x Jameson @ 3.0 EUR, VAT: 18.0% (0.46 EUR)
+  - 5 x Cisk @ 10.0 EUR, VAT: 18.0% (1.53 EUR)
+  - 1 x Limoncello @ 2.5 EUR, VAT: 18.0% (0.38 EUR)

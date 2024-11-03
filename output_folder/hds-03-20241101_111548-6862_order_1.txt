@@ -1,0 +1,6 @@
+Company: CompanyName
+Order ID: 1438198
+Total Price: 16.0 EUR
+VAT Amount: 2.44 EUR
+Items:
+  - 2 x MAIN 8 @ 16.0 EUR, VAT: 18.0% (2.44 EUR)

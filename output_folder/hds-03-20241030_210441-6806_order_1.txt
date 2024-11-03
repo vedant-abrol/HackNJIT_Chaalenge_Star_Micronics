@@ -1,0 +1,7 @@
+Company: CompanyName
+Order ID: 274921
+Total Price: 8.0 EUR
+VAT Amount: 1.22 EUR
+Items:
+  - 1 x Cisk Excel @ 4.0 EUR, VAT: 18.0% (0.61 EUR)
+  - 1 x Cisk @ 4.0 EUR, VAT: 18.0% (0.61 EUR)

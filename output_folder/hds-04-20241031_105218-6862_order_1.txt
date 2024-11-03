@@ -1,0 +1,7 @@
+Company: CompanyName
+Order ID: 1434259
+Total Price: 10.0 EUR
+VAT Amount: 1.52 EUR
+Items:
+  - 1 x BRIE & SERRANO @ 6.5 EUR, VAT: 18.0% (0.99 EUR)
+  - 1 x MEAT PIE @ 3.5 EUR, VAT: 18.0% (0.53 EUR)

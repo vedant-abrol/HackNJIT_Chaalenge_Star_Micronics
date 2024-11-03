@@ -1,0 +1,7 @@
+Company: CompanyName
+Order ID: 272210
+Total Price: 9.4 EUR
+VAT Amount: 1.44 EUR
+Items:
+  - 1 x Fresh OJ @ 3.0 EUR, VAT: 18.0% (0.46 EUR)
+  - 2 x LARE CAPPUCCINO @ 6.4 EUR, VAT: 18.0% (0.98 EUR)

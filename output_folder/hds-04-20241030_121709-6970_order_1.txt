@@ -1,0 +1,7 @@
+Company: CompanyName
+Order ID: 1430958
+Total Price: 22.0 EUR
+VAT Amount: 3.36 EUR
+Items:
+  - 1 x Caprese Salad @ 10.0 EUR, VAT: 18.0% (1.53 EUR)
+  - 1 x Ceaser Salad @ 12.0 EUR, VAT: 18.0% (1.83 EUR)

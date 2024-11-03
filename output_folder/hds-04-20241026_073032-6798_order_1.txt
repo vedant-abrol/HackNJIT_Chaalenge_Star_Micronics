@@ -1,0 +1,8 @@
+Company: CompanyName
+Order ID: 271267
+Total Price: 17.8 EUR
+VAT Amount: 2.72 EUR
+Items:
+  - 2 x BAGEL @ 11.6 EUR, VAT: 18.0% (1.77 EUR)
+  - 1 x HOT CHOCOLATE @ 3.0 EUR, VAT: 18.0% (0.46 EUR)
+  - 1 x LATTE @ 3.2 EUR, VAT: 18.0% (0.49 EUR)

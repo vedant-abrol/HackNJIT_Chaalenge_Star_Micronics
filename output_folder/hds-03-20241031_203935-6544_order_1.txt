@@ -1,0 +1,7 @@
+Company: CompanyName
+Order ID: 275847
+Total Price: 13.75 EUR
+VAT Amount: 2.1 EUR
+Items:
+  - 2 x BIG FELIX CHEESE BURGER @ 12.0 EUR, VAT: 18.0% (1.83 EUR)
+  - 1 x Small Fries @ 1.75 EUR, VAT: 18.0% (0.27 EUR)

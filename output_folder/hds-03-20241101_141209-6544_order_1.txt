@@ -1,0 +1,10 @@
+Company: CompanyName
+Order ID: 276509
+Total Price: 33.8 EUR
+VAT Amount: 5.15 EUR
+Items:
+  - 1 x Better Meal @ 7.95 EUR, VAT: 18.0% (1.21 EUR)
+  - 1 x Felix Burger Meal @ 7.95 EUR, VAT: 18.0% (1.21 EUR)
+  - 1 x 6 STRIPS MEAL @ 8.55 EUR, VAT: 18.0% (1.3 EUR)
+  - 4 x BCRS @ 0.4 EUR, VAT: 18.0% (0.06 EUR)
+  - 1 x Farmer Burger Meal @ 8.95 EUR, VAT: 18.0% (1.37 EUR)

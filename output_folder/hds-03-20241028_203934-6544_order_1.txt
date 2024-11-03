@@ -1,0 +1,7 @@
+Company: CompanyName
+Order ID: 272881
+Total Price: 40.05 EUR
+VAT Amount: 6.11 EUR
+Items:
+  - 3 x Big Felix Cheese Meal @ 39.75 EUR, VAT: 18.0% (6.06 EUR)
+  - 3 x BCRS @ 0.3 EUR, VAT: 18.0% (0.05 EUR)

@@ -1,0 +1,7 @@
+Company: CompanyName
+Order ID: 273239
+Total Price: 13.55 EUR
+VAT Amount: 2.07 EUR
+Items:
+  - 1 x HAPPY COMBO-1 drink @ 11.6 EUR, VAT: 18.0% (1.77 EUR)
+  - 1 x ONION RINGS 8 @ 1.95 EUR, VAT: 18.0% (0.3 EUR)

@@ -1,0 +1,9 @@
+Company: CompanyName
+Order ID: 1424524
+Total Price: 8.8 EUR
+VAT Amount: 1.32 EUR
+Items:
+  - 1 x BCRS @ 0.1 EUR, VAT: 0.0% (0.0 EUR)
+  - 1 x Croissants @ 1.8 EUR, VAT: 18.0% (0.27 EUR)
+  - 1 x Pepsi @ 1.9 EUR, VAT: 18.0% (0.29 EUR)
+  - 1 x Snello Special Ftira ftira @ 5.0 EUR, VAT: 18.0% (0.76 EUR)

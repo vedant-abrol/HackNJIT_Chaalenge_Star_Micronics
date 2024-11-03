@@ -1,0 +1,6 @@
+Company: CompanyName
+Order ID: 1418992
+Total Price: 27.45 EUR
+VAT Amount: 4.19 EUR
+Items:
+  - 3 x Mushroom Magic Burger Meal @ 27.45 EUR, VAT: 18.0% (4.19 EUR)

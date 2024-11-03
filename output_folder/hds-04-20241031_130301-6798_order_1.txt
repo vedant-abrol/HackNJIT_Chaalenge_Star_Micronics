@@ -1,0 +1,9 @@
+Company: CompanyName
+Order ID: 275604
+Total Price: 11.8 EUR
+VAT Amount: 1.76 EUR
+Items:
+  - 1 x LEAMO LEMONADE @ 2.5 EUR, VAT: 18.0% (0.38 EUR)
+  - 3 x BCRS @ 0.3 EUR, VAT: 0.0% (0.0 EUR)
+  - 1 x HIBISCUS @ 4.5 EUR, VAT: 18.0% (0.69 EUR)
+  - 1 x GINGER @ 4.5 EUR, VAT: 18.0% (0.69 EUR)

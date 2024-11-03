@@ -1,0 +1,10 @@
+Company: CompanyName
+Order ID: 1441511
+Total Price: 11.5 EUR
+VAT Amount: 1.74 EUR
+Items:
+  - 1 x BCRS @ 0.1 EUR, VAT: 0.0% (0.0 EUR)
+  - 1 x Capuccino @ 1.5 EUR, VAT: 18.0% (0.23 EUR)
+  - 1 x Chicken & Cheese @ 4.5 EUR, VAT: 18.0% (0.69 EUR)
+  - 1 x Ham Cheese & Egg @ 3.5 EUR, VAT: 18.0% (0.53 EUR)
+  - 1 x Soft Drinks @ 1.9 EUR, VAT: 18.0% (0.29 EUR)

@@ -1,0 +1,6 @@
+Company: CompanyName
+Order ID: 271565
+Total Price: 33.4 EUR
+VAT Amount: 13.71 EUR
+Items:
+  - 2 x Chicken Curry - Cà Ri Gà @ 21.0 EUR, VAT: 18.0% (3.2 EUR)

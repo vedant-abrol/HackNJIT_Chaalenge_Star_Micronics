@@ -1,0 +1,8 @@
+Company: CompanyName
+Order ID: 276416
+Total Price: 10.5 EUR
+VAT Amount: 1.6 EUR
+Items:
+  - 1 x SAVORY CROISSANT @ 5.0 EUR, VAT: 18.0% (0.76 EUR)
+  - 1 x CAPPUCCINO @ 2.5 EUR, VAT: 18.0% (0.38 EUR)
+  - 1 x PISTACHIO COOKIE @ 3.0 EUR, VAT: 18.0% (0.46 EUR)

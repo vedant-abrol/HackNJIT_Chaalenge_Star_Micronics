@@ -1,0 +1,9 @@
+Company: CompanyName
+Order ID: 1428944
+Total Price: 6.8 EUR
+VAT Amount: 1.02 EUR
+Items:
+  - 1 x BCRS @ 0.1 EUR, VAT: 0.0% (0.0 EUR)
+  - 1 x Egg Mayo & Salad @ 2.5 EUR, VAT: 18.0% (0.38 EUR)
+  - 1 x Scoops @ 2.3 EUR, VAT: 18.0% (0.35 EUR)
+  - 1 x Soft Drinks @ 1.9 EUR, VAT: 18.0% (0.29 EUR)

@@ -1,0 +1,9 @@
+Company: CompanyName
+Order ID: 272311
+Total Price: 35.6 EUR
+VAT Amount: 5.43 EUR
+Items:
+  - 2 x Crunchy Fried Chicken (4pcs) Gà chiên giòn @ 13.2 EUR, VAT: 18.0% (2.01 EUR)
+  - 1 x Bac xiu coffee @ 3.3 EUR, VAT: 18.0% (0.5 EUR)
+  - 1 x Crunchy Fried Chicken (4pcs) Gà chiên giòn @ 6.6 EUR, VAT: 18.0% (1.01 EUR)
+  - 1 x Chicken Curry - Cà Ri Gà @ 12.5 EUR, VAT: 18.0% (1.91 EUR)

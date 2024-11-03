@@ -1,0 +1,6 @@
+Company: CompanyName
+Order ID: 274743
+Total Price: 188.5 EUR
+VAT Amount: 28.75 EUR
+Items:
+  - 29 x 6.50 Menu @ 188.5 EUR, VAT: 18.0% (28.75 EUR)

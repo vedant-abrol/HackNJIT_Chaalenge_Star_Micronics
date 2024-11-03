@@ -1,0 +1,10 @@
+Company: CompanyName
+Order ID: 276575
+Total Price: 45.6 EUR
+VAT Amount: 5.96 EUR
+Items:
+  - 1 x Chicken Springrolls (3pcs) Chả giò Gà @ 6.6 EUR, VAT: 18.0% (1.01 EUR)
+  - 1 x Steamed Crystal Shrimp Dumpling (4pcs) Há cảo @ 6.6 EUR, VAT: 18.0% (1.01 EUR)
+  - 1 x Mixed Dim Sum Platter (4pcs) @ 6.6 EUR, VAT: 0.0% (0.0 EUR)
+  - 1 x Beef Pho @ 13.5 EUR, VAT: 18.0% (2.06 EUR)
+  - 1 x Bun Cha Ha Noi @ 12.3 EUR, VAT: 18.0% (1.88 EUR)

@@ -1,0 +1,6 @@
+Company: CompanyName
+Order ID: 1420703
+Total Price: 6.99 EUR
+VAT Amount: 1.07 EUR
+Items:
+  - 1 x Rainbow Crunch Wrap @ 6.99 EUR, VAT: 18.0% (1.07 EUR)
