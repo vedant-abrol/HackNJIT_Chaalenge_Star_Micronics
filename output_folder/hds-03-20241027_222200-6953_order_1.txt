@@ -1,6 +1,0 @@
-Company: CompanyName
-Order ID: 1420704
-Total Price: 7.2 EUR
-VAT Amount: 1.1 EUR
-Items:
-  - 1 x Fiery Delight Wrap @ 7.2 EUR, VAT: 18.0% (1.1 EUR)

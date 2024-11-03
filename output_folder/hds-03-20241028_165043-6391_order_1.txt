@@ -1,5 +1,0 @@
-Company: CompanyName
-Order ID: 272804
-Total Price: 0.0 EUR
-VAT Amount: 0.0 EUR
-Items:

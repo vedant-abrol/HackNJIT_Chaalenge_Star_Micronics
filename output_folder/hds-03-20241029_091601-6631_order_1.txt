@@ -1,9 +1,0 @@
-Company: CompanyName
-Order ID: 273033
-Total Price: 6.8 EUR
-VAT Amount: 1.01 EUR
-Items:
-  - 1 x Espresso @ 1.8 EUR, VAT: 18.0% (0.27 EUR)
-  - 1 x Llanllyr Still water @ 2.4 EUR, VAT: 18.0% (0.37 EUR)
-  - 2 x BCRS @ 0.2 EUR, VAT: 0.0% (0.0 EUR)
-  - 1 x Llanllyr Sparkling water @ 2.4 EUR, VAT: 18.0% (0.37 EUR)

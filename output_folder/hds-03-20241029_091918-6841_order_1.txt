@@ -1,5 +1,0 @@
-Company: CompanyName
-Order ID: 1424626
-Total Price: 22.5 EUR
-VAT Amount: 19.07 EUR
-Items:

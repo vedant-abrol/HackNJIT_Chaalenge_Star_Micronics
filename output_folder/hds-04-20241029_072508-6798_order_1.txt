@@ -1,8 +1,0 @@
-Company: CompanyName
-Order ID: 272901
-Total Price: 15.2 EUR
-VAT Amount: 2.29 EUR
-Items:
-  - 2 x MORITZ @ 6.0 EUR, VAT: 18.0% (0.92 EUR)
-  - 2 x BCRS @ 0.2 EUR, VAT: 0.0% (0.0 EUR)
-  - 3 x DOUBLE ESPRESSO @ 9.0 EUR, VAT: 18.0% (1.37 EUR)

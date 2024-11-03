@@ -1,6 +1,0 @@
-Company: CompanyName
-Order ID: 1436726
-Total Price: 42.0 EUR
-VAT Amount: 6.41 EUR
-Items:
-  - 1 x Cold Cuts & Cheese @ 28.0 EUR, VAT: 18.0% (4.27 EUR)

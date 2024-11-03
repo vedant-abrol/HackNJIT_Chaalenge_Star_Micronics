@@ -1,6 +1,0 @@
-Company: CompanyName
-Order ID: 1422578
-Total Price: 1.6 EUR
-VAT Amount: 0.24 EUR
-Items:
-  - 2 x Coffee normal @ 1.6 EUR, VAT: 18.0% (0.24 EUR)

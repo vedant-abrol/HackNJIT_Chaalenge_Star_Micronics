@@ -1,8 +1,0 @@
-Company: CompanyName
-Order ID: 1421185
-Total Price: 3.8 EUR
-VAT Amount: 0.53 EUR
-Items:
-  - 3 x BCRS @ 0.3 EUR, VAT: 0.0% (0.0 EUR)
-  - 3 x Still Water (Local) @ 2.7 EUR, VAT: 18.0% (0.41 EUR)
-  - 1 x Tea normal @ 0.8 EUR, VAT: 18.0% (0.12 EUR)

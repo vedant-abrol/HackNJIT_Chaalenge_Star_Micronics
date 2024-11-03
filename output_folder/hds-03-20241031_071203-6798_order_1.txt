@@ -1,7 +1,0 @@
-Company: CompanyName
-Order ID: 274952
-Total Price: 5.5 EUR
-VAT Amount: 0.84 EUR
-Items:
-  - 1 x CAPPUCCINO @ 2.5 EUR, VAT: 18.0% (0.38 EUR)
-  - 1 x BANANA LOAF @ 3.0 EUR, VAT: 18.0% (0.46 EUR)

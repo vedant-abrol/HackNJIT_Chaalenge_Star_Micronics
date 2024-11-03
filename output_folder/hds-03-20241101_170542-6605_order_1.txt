@@ -1,6 +1,0 @@
-Company: CompanyName
-Order ID: 276614
-Total Price: 13.5 EUR
-VAT Amount: 2.06 EUR
-Items:
-  - 2 x Nibble @ 13.5 EUR, VAT: 18.0% (2.06 EUR)

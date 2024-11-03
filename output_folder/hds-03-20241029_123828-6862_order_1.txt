@@ -1,7 +1,0 @@
-Company: CompanyName
-Order ID: 1426317
-Total Price: 4.1 EUR
-VAT Amount: 0.63 EUR
-Items:
-  - 1 x APPLE PIE @ 3.0 EUR, VAT: 18.0% (0.46 EUR)
-  - 1 x TYRELLS @ 1.1 EUR, VAT: 18.0% (0.17 EUR)

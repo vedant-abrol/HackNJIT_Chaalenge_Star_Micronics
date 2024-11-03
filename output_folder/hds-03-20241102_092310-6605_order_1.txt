@@ -1,5 +1,0 @@
-Company: CompanyName
-Order ID: 276819
-Total Price: 18.7 EUR
-VAT Amount: 2.86 EUR
-Items:

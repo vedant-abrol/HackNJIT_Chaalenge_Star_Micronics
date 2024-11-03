@@ -1,5 +1,0 @@
-Company: CompanyName
-Order ID: 275769
-Total Price: 14.0 EUR
-VAT Amount: 0.0 EUR
-Items:

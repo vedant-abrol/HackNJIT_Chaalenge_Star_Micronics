@@ -1,5 +1,0 @@
-Company: CompanyName
-Order ID: 1425245
-Total Price: 2.5 EUR
-VAT Amount: 2.12 EUR
-Items:

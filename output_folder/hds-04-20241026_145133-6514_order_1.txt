@@ -1,9 +1,0 @@
-Company: CompanyName
-Order ID: 271476
-Total Price: 81.0 EUR
-VAT Amount: 12.36 EUR
-Items:
-  - 4 x Aperol Spritz @ 34.0 EUR, VAT: 18.0% (5.19 EUR)
-  - 1 x Aperitivo @ 20.0 EUR, VAT: 18.0% (3.05 EUR)
-  - 1 x Carpaccio Tuna @ 20.0 EUR, VAT: 18.0% (3.05 EUR)
-  - 1 x Tiramisu @ 7.0 EUR, VAT: 18.0% (1.07 EUR)

@@ -1,7 +1,0 @@
-Company: CompanyName
-Order ID: 1441091
-Total Price: 60.1 EUR
-VAT Amount: 9.17 EUR
-Items:
-  - 2 x Mexicano Cheesy Burger Meal @ 16.7 EUR, VAT: 18.0% (2.55 EUR)
-  - 4 x Tokyo Cheese Fillet Meal @ 43.4 EUR, VAT: 18.0% (6.62 EUR)

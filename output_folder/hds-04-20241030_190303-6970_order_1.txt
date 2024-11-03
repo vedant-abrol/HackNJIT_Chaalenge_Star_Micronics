@@ -1,6 +1,0 @@
-Company: CompanyName
-Order ID: 1432761
-Total Price: 37.0 EUR
-VAT Amount: 5.64 EUR
-Items:
-  - 3 x Chocolate Brownie @ 19.5 EUR, VAT: 18.0% (2.97 EUR)

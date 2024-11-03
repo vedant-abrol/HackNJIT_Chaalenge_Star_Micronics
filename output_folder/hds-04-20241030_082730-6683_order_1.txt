@@ -1,6 +1,0 @@
-Company: CompanyName
-Order ID: 273986
-Total Price: 2.6 EUR
-VAT Amount: 0.4 EUR
-Items:
-  - 1 x Red Bull Can 355ml @ 2.6 EUR, VAT: 18.0% (0.4 EUR)

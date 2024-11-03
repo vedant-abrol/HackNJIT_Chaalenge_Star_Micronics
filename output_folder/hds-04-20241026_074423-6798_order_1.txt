@@ -1,7 +1,0 @@
-Company: CompanyName
-Order ID: 271272
-Total Price: 8.2 EUR
-VAT Amount: 1.25 EUR
-Items:
-  - 1 x LATTE @ 3.2 EUR, VAT: 18.0% (0.49 EUR)
-  - 1 x SAVORY CROISSANT @ 5.0 EUR, VAT: 18.0% (0.76 EUR)

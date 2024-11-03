@@ -1,7 +1,0 @@
-Company: CompanyName
-Order ID: 271134
-Total Price: 66.4 EUR
-VAT Amount: 10.58 EUR
-Items:
-  - 4 x Classic Burger, Our Way @ 50.0 EUR, VAT: 18.0% (7.63 EUR)
-  - 1 x Burrata & Grilled Peach Salad @ 15.75 EUR, VAT: 18.0% (2.4 EUR)

@@ -1,8 +1,0 @@
-Company: CompanyName
-Order ID: 274378
-Total Price: 5.92 EUR
-VAT Amount: 0.91 EUR
-Items:
-  - 1 x Felix Burger Meal @ 5.17 EUR, VAT: 18.0% (0.79 EUR)
-  - 1 x BCRS @ 0.05 EUR, VAT: 18.0% (0.01 EUR)
-  - 1 x Light Chilli @ 0.7 EUR, VAT: 18.0% (0.11 EUR)

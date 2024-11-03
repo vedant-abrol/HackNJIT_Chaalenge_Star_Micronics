@@ -1,7 +1,0 @@
-Company: CompanyName
-Order ID: 271732
-Total Price: 4.5 EUR
-VAT Amount: 0.64 EUR
-Items:
-  - 3 x Small Still water @ 4.2 EUR, VAT: 18.0% (0.64 EUR)
-  - 3 x BCRS @ 0.3 EUR, VAT: 0.0% (0.0 EUR)

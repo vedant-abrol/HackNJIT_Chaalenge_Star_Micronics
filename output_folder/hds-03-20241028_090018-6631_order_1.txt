@@ -1,9 +1,0 @@
-Company: CompanyName
-Order ID: 272056
-Total Price: 12.6 EUR
-VAT Amount: 1.93 EUR
-Items:
-  - 3 x 1 Scoop @ 7.5 EUR, VAT: 18.0% (1.14 EUR)
-  - 3 x Waffle Cone @ 0.9 EUR, VAT: 18.0% (0.14 EUR)
-  - 1 x Americano @ 2.2 EUR, VAT: 18.0% (0.34 EUR)
-  - 1 x Espresso Lungo @ 2.0 EUR, VAT: 18.0% (0.31 EUR)

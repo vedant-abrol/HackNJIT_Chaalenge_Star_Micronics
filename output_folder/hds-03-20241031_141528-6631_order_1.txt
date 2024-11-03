@@ -1,7 +1,0 @@
-Company: CompanyName
-Order ID: 275704
-Total Price: 8.5 EUR
-VAT Amount: 1.3 EUR
-Items:
-  - 1 x 2 Scoop @ 4.0 EUR, VAT: 18.0% (0.61 EUR)
-  - 1 x Ice Cream Burger @ 4.5 EUR, VAT: 18.0% (0.69 EUR)

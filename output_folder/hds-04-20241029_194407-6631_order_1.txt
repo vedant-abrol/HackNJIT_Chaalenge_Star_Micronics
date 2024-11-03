@@ -1,8 +1,0 @@
-Company: CompanyName
-Order ID: 273862
-Total Price: 12.4 EUR
-VAT Amount: 1.85 EUR
-Items:
-  - 3 x Cisk @ 8.1 EUR, VAT: 18.0% (1.24 EUR)
-  - 3 x BCRS @ 0.3 EUR, VAT: 0.0% (0.0 EUR)
-  - 1 x 2 Scoop @ 4.0 EUR, VAT: 18.0% (0.61 EUR)

@@ -1,9 +1,0 @@
-Company: CompanyName
-Order ID: 271286
-Total Price: 18.0 EUR
-VAT Amount: 2.75 EUR
-Items:
-  - 1 x Bagel @ 5.0 EUR, VAT: 18.0% (0.76 EUR)
-  - 1 x Avocado Toast @ 4.5 EUR, VAT: 18.0% (0.69 EUR)
-  - 2 x Coffee @ 4.5 EUR, VAT: 18.0% (0.69 EUR)
-  - 2 x Espresso @ 4.0 EUR, VAT: 18.0% (0.61 EUR)

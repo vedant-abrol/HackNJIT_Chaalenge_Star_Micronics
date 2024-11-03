@@ -1,7 +1,0 @@
-Company: CompanyName
-Order ID: 1434921
-Total Price: 7.5 EUR
-VAT Amount: 1.15 EUR
-Items:
-  - 1 x Avocado Toast @ 4.5 EUR, VAT: 18.0% (0.69 EUR)
-  - 1 x Hot Chocolate @ 3.0 EUR, VAT: 18.0% (0.46 EUR)

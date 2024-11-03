@@ -1,8 +1,0 @@
-Company: CompanyName
-Order ID: 272581
-Total Price: 17.4 EUR
-VAT Amount: 2.65 EUR
-Items:
-  - 1 x Roasted pork bao bun @ 6.9 EUR, VAT: 18.0% (1.05 EUR)
-  - 1 x Vietnamese Brown Coffee H/C @ 2.5 EUR, VAT: 18.0% (0.38 EUR)
-  - 1 x Vietnamese porkball & egg - Xíu Mại trứng. @ 8.0 EUR, VAT: 18.0% (1.22 EUR)

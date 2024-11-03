@@ -1,8 +1,0 @@
-Company: CompanyName
-Order ID: 1438199
-Total Price: 20.2 EUR
-VAT Amount: 2.75 EUR
-Items:
-  - 2 x BCRS @ 0.2 EUR, VAT: 0.0% (0.0 EUR)
-  - 2 x Chili con Carne Wrap @ 18.0 EUR, VAT: 18.0% (2.75 EUR)
-  - 1 x Pepsi @ 2.0 EUR, VAT: 0.0% (0.0 EUR)

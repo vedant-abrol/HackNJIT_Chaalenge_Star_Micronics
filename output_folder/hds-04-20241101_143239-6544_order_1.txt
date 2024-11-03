@@ -1,8 +1,0 @@
-Company: CompanyName
-Order ID: 276527
-Total Price: 33.35 EUR
-VAT Amount: 5.06 EUR
-Items:
-  - 1 x FAMILY BUDJECT BUCKET -2drinks @ 31.15 EUR, VAT: 18.0% (4.75 EUR)
-  - 2 x EXTRA  AMOUNT @ 2.0 EUR, VAT: 18.0% (0.31 EUR)
-  - 2 x BCRS @ 0.2 EUR, VAT: 0.0% (0.0 EUR)

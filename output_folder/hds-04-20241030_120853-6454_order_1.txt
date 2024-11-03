@@ -1,7 +1,0 @@
-Company: CompanyName
-Order ID: 1430746
-Total Price: 12.8 EUR
-VAT Amount: 1.95 EUR
-Items:
-  - 4 x Scoops @ 9.2 EUR, VAT: 18.0% (1.4 EUR)
-  - 1 x Scoops @ 3.6 EUR, VAT: 18.0% (0.55 EUR)

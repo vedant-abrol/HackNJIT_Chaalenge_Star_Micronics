@@ -1,5 +1,0 @@
-Company: CompanyName
-Order ID: 276661
-Total Price: 8.0 EUR
-VAT Amount: 1.22 EUR
-Items:

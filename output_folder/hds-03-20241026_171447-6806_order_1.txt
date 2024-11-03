@@ -1,8 +1,0 @@
-Company: CompanyName
-Order ID: 271545
-Total Price: 10.0 EUR
-VAT Amount: 1.53 EUR
-Items:
-  - 1 x Cisk @ 2.0 EUR, VAT: 18.0% (0.31 EUR)
-  - 1 x 1919 GELLEWZA @ 5.0 EUR, VAT: 18.0% (0.76 EUR)
-  - 1 x Malibu @ 3.0 EUR, VAT: 18.0% (0.46 EUR)

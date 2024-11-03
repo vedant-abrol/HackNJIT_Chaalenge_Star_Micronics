@@ -1,8 +1,0 @@
-Company: CompanyName
-Order ID: 1422739
-Total Price: 5.2 EUR
-VAT Amount: 0.79 EUR
-Items:
-  - 1 x Cappucino @ 2.0 EUR, VAT: 18.0% (0.31 EUR)
-  - 1 x Croissants @ 1.8 EUR, VAT: 18.0% (0.27 EUR)
-  - 1 x Espresso @ 1.4 EUR, VAT: 18.0% (0.21 EUR)

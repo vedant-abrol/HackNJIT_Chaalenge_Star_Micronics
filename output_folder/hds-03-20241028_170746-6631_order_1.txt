@@ -1,8 +1,0 @@
-Company: CompanyName
-Order ID: 272813
-Total Price: 9.75 EUR
-VAT Amount: 1.49 EUR
-Items:
-  - 1 x 1 Scoop @ 2.5 EUR, VAT: 18.0% (0.38 EUR)
-  - 1 x Soft Ice-cream @ 4.0 EUR, VAT: 18.0% (0.61 EUR)
-  - 1 x Slush @ 3.25 EUR, VAT: 18.0% (0.5 EUR)

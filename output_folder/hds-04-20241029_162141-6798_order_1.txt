@@ -1,7 +1,0 @@
-Company: CompanyName
-Order ID: 273795
-Total Price: 4.6 EUR
-VAT Amount: 0.69 EUR
-Items:
-  - 1 x GINGER @ 4.5 EUR, VAT: 18.0% (0.69 EUR)
-  - 1 x BCRS @ 0.1 EUR, VAT: 0.0% (0.0 EUR)

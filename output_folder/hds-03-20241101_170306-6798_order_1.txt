@@ -1,6 +1,0 @@
-Company: CompanyName
-Order ID: 276611
-Total Price: 35.0 EUR
-VAT Amount: 5.34 EUR
-Items:
-  - 5 x CLASSIC NEGRONI @ 35.0 EUR, VAT: 18.0% (5.34 EUR)

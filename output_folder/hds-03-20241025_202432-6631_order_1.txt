@@ -1,5 +1,0 @@
-Company: CompanyName
-Order ID: 271230
-Total Price: 12.95 EUR
-VAT Amount: 0.0 EUR
-Items:

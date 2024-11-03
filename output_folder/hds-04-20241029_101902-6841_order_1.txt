@@ -1,8 +1,0 @@
-Company: CompanyName
-Order ID: 1424899
-Total Price: 9.6 EUR
-VAT Amount: 1.46 EUR
-Items:
-  - 1 x All the meats Roll @ 5.0 EUR, VAT: 18.0% (0.76 EUR)
-  - 2 x Tea normal @ 1.6 EUR, VAT: 18.0% (0.24 EUR)
-  - 1 x Tuna Ftira @ 3.0 EUR, VAT: 18.0% (0.46 EUR)

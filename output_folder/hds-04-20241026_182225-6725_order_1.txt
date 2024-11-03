@@ -1,8 +1,0 @@
-Company: CompanyName
-Order ID: 271588
-Total Price: 50.8 EUR
-VAT Amount: 7.75 EUR
-Items:
-  - 2 x Hog Dawg @ 21.9 EUR, VAT: 18.0% (3.34 EUR)
-  - 1 x Truffle Taste @ 14.95 EUR, VAT: 18.0% (2.28 EUR)
-  - 1 x Bacon Strip @ 13.95 EUR, VAT: 18.0% (2.13 EUR)

@@ -1,7 +1,0 @@
-Company: CompanyName
-Order ID: 1429986
-Total Price: 1.1 EUR
-VAT Amount: 0.15 EUR
-Items:
-  - 1 x BCRS @ 0.1 EUR, VAT: 0.0% (0.0 EUR)
-  - 1 x Water @ 1.0 EUR, VAT: 18.0% (0.15 EUR)

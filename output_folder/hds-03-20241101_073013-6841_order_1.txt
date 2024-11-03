@@ -1,7 +1,0 @@
-Company: CompanyName
-Order ID: 1437309
-Total Price: 3.2 EUR
-VAT Amount: 0.49 EUR
-Items:
-  - 2 x Sausage roll @ 2.4 EUR, VAT: 18.0% (0.37 EUR)
-  - 1 x Tea normal @ 0.8 EUR, VAT: 18.0% (0.12 EUR)

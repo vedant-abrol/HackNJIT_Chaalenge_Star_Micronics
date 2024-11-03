@@ -1,6 +1,0 @@
-Company: CompanyName
-Order ID: 1432785
-Total Price: 60.0 EUR
-VAT Amount: 9.15 EUR
-Items:
-  - 1 x Primus Gellewza Shiraz - Imqadded Ta' Malta @ 60.0 EUR, VAT: 18.0% (9.15 EUR)

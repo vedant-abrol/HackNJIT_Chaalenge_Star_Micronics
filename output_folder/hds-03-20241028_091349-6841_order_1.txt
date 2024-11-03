@@ -1,9 +1,0 @@
-Company: CompanyName
-Order ID: 1421174
-Total Price: 9.1 EUR
-VAT Amount: 1.39 EUR
-Items:
-  - 3 x Americano @ 4.2 EUR, VAT: 18.0% (0.64 EUR)
-  - 1 x Cappucino @ 2.0 EUR, VAT: 18.0% (0.31 EUR)
-  - 1 x Cappucino @ 2.1 EUR, VAT: 18.0% (0.32 EUR)
-  - 1 x Coffee normal @ 0.8 EUR, VAT: 18.0% (0.12 EUR)

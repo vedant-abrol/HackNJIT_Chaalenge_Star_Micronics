@@ -1,8 +1,0 @@
-Company: CompanyName
-Order ID: 276707
-Total Price: 13.55 EUR
-VAT Amount: 2.08 EUR
-Items:
-  - 1 x Farmer Burger Meal @ 8.95 EUR, VAT: 18.0% (1.37 EUR)
-  - 1 x BCRS @ 0.1 EUR, VAT: 18.0% (0.02 EUR)
-  - 1 x CHEESE FELIX BURGER @ 4.5 EUR, VAT: 18.0% (0.69 EUR)

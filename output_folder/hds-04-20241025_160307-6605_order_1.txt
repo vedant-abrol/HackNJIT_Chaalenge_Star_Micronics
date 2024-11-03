@@ -1,9 +1,0 @@
-Company: CompanyName
-Order ID: 270867
-Total Price: 26.4 EUR
-VAT Amount: 3.98 EUR
-Items:
-  - 3 x Kinnie @ 5.7 EUR, VAT: 18.0% (0.87 EUR)
-  - 3 x BCRS @ 0.3 EUR, VAT: 0.0% (0.0 EUR)
-  - 1 x Burrata & Grilled Peach Salad @ 10.5 EUR, VAT: 18.0% (1.6 EUR)
-  - 1 x Heirloom Breakfast Box @ 9.9 EUR, VAT: 18.0% (1.51 EUR)

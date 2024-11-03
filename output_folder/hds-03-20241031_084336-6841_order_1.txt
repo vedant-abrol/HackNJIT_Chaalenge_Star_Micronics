@@ -1,7 +1,0 @@
-Company: CompanyName
-Order ID: 1433554
-Total Price: 6.3 EUR
-VAT Amount: 0.96 EUR
-Items:
-  - 3 x Espresso @ 4.2 EUR, VAT: 18.0% (0.64 EUR)
-  - 3 x Pastizzi @ 2.1 EUR, VAT: 18.0% (0.32 EUR)

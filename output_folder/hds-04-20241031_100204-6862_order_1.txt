@@ -1,7 +1,0 @@
-Company: CompanyName
-Order ID: 1434047
-Total Price: 10.5 EUR
-VAT Amount: 1.6 EUR
-Items:
-  - 1 x HAM & CHEESE TOAST @ 2.5 EUR, VAT: 18.0% (0.38 EUR)
-  - 1 x MAIN 8 @ 8.0 EUR, VAT: 18.0% (1.22 EUR)

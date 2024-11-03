@@ -1,5 +1,0 @@
-Company: CompanyName
-Order ID: 1439227
-Total Price: 5.0 EUR
-VAT Amount: 0.76 EUR
-Items:

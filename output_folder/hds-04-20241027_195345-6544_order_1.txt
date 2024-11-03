@@ -1,7 +1,0 @@
-Company: CompanyName
-Order ID: 271897
-Total Price: 7.55 EUR
-VAT Amount: 1.15 EUR
-Items:
-  - 1 x 6 STRIPS @ 6.85 EUR, VAT: 18.0% (1.04 EUR)
-  - 1 x Garlic Sauce @ 0.7 EUR, VAT: 18.0% (0.11 EUR)

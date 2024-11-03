@@ -1,7 +1,0 @@
-Company: CompanyName
-Order ID: 272770
-Total Price: 12.9 EUR
-VAT Amount: 1.97 EUR
-Items:
-  - 3 x 2 Scoop @ 12.0 EUR, VAT: 18.0% (1.83 EUR)
-  - 3 x Waffle Cone @ 0.9 EUR, VAT: 18.0% (0.14 EUR)

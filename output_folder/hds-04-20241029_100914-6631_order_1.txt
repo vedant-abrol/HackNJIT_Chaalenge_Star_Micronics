@@ -1,7 +1,0 @@
-Company: CompanyName
-Order ID: 273120
-Total Price: 5.0 EUR
-VAT Amount: 0.76 EUR
-Items:
-  - 1 x Cappuccino @ 2.5 EUR, VAT: 18.0% (0.38 EUR)
-  - 1 x Plain Croissant @ 2.5 EUR, VAT: 18.0% (0.38 EUR)

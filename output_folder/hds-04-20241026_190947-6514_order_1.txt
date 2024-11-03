@@ -1,9 +1,0 @@
-Company: CompanyName
-Order ID: 271608
-Total Price: 66.0 EUR
-VAT Amount: 10.07 EUR
-Items:
-  - 1 x Caravaggio Girgentina @ 28.0 EUR, VAT: 18.0% (4.27 EUR)
-  - 1 x Tavolaccio Apericena @ 25.0 EUR, VAT: 18.0% (3.81 EUR)
-  - 1 x Grappa @ 6.0 EUR, VAT: 18.0% (0.92 EUR)
-  - 1 x Ciambellette al Vino Ciociare @ 7.0 EUR, VAT: 18.0% (1.07 EUR)

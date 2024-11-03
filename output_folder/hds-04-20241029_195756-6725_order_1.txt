@@ -1,7 +1,0 @@
-Company: CompanyName
-Order ID: 273865
-Total Price: 24.9 EUR
-VAT Amount: 3.8 EUR
-Items:
-  - 1 x Classic Cheese @ 11.95 EUR, VAT: 18.0% (1.82 EUR)
-  - 1 x Spaghetti Carbonara @ 12.95 EUR, VAT: 18.0% (1.98 EUR)

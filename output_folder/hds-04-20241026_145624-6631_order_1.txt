@@ -1,9 +1,0 @@
-Company: CompanyName
-Order ID: 271478
-Total Price: 6.8 EUR
-VAT Amount: 1.02 EUR
-Items:
-  - 1 x Cisk @ 2.7 EUR, VAT: 18.0% (0.41 EUR)
-  - 1 x BCRS @ 0.1 EUR, VAT: 0.0% (0.0 EUR)
-  - 1 x Americano @ 2.2 EUR, VAT: 18.0% (0.34 EUR)
-  - 1 x Espresso @ 1.8 EUR, VAT: 18.0% (0.27 EUR)

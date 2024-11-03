@@ -1,9 +1,0 @@
-Company: CompanyName
-Order ID: 272691
-Total Price: 11.0 EUR
-VAT Amount: 1.68 EUR
-Items:
-  - 1 x CAPPUCCINO @ 2.5 EUR, VAT: 18.0% (0.38 EUR)
-  - 1 x CAPPUCCINO @ 3.0 EUR, VAT: 18.0% (0.46 EUR)
-  - 1 x ALMOND CROISSANT @ 3.5 EUR, VAT: 18.0% (0.53 EUR)
-  - 1 x ENERGY BALLS @ 2.0 EUR, VAT: 18.0% (0.31 EUR)

@@ -1,8 +1,0 @@
-Company: CompanyName
-Order ID: 276542
-Total Price: 10.5 EUR
-VAT Amount: 1.52 EUR
-Items:
-  - 1 x ICED LATTE @ 3.5 EUR, VAT: 18.0% (0.53 EUR)
-  - 2 x ESPRESSO @ 3.0 EUR, VAT: 18.0% (0.46 EUR)
-  - 1 x ICED AMERICANO @ 3.5 EUR, VAT: 18.0% (0.53 EUR)

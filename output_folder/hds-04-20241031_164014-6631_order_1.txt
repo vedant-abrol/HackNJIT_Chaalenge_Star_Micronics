@@ -1,8 +1,0 @@
-Company: CompanyName
-Order ID: 275777
-Total Price: 8.85 EUR
-VAT Amount: 1.35 EUR
-Items:
-  - 2 x 1 Scoop @ 5.0 EUR, VAT: 18.0% (0.76 EUR)
-  - 2 x Waffle Cone @ 0.6 EUR, VAT: 18.0% (0.09 EUR)
-  - 1 x Slush @ 3.25 EUR, VAT: 18.0% (0.5 EUR)

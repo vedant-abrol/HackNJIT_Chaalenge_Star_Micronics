@@ -1,8 +1,0 @@
-Company: CompanyName
-Order ID: 276430
-Total Price: 8.5 EUR
-VAT Amount: 1.3 EUR
-Items:
-  - 1 x PISTACHIO COOKIE @ 3.0 EUR, VAT: 18.0% (0.46 EUR)
-  - 1 x ESPRESSO @ 1.5 EUR, VAT: 18.0% (0.23 EUR)
-  - 1 x ICED LATTE @ 4.0 EUR, VAT: 18.0% (0.61 EUR)

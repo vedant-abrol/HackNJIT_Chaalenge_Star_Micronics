@@ -1,7 +1,0 @@
-Company: CompanyName
-Order ID: 271891
-Total Price: 23.9 EUR
-VAT Amount: 3.65 EUR
-Items:
-  - 1 x Spaghetti Carbonara @ 10.95 EUR, VAT: 18.0% (1.67 EUR)
-  - 1 x Short Ribs Mac N Cheese @ 12.95 EUR, VAT: 18.0% (1.98 EUR)

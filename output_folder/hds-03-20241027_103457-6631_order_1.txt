@@ -1,8 +1,0 @@
-Company: CompanyName
-Order ID: 271700
-Total Price: 8.25 EUR
-VAT Amount: 1.26 EUR
-Items:
-  - 1 x Latte @ 2.5 EUR, VAT: 18.0% (0.38 EUR)
-  - 1 x Cappuccino @ 2.5 EUR, VAT: 18.0% (0.38 EUR)
-  - 1 x Slush @ 3.25 EUR, VAT: 18.0% (0.5 EUR)

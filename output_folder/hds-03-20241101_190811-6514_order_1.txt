@@ -1,8 +1,0 @@
-Company: CompanyName
-Order ID: 276677
-Total Price: 54.0 EUR
-VAT Amount: 8.24 EUR
-Items:
-  - 1 x Cisk Pint @ 5.5 EUR, VAT: 18.0% (0.84 EUR)
-  - 1 x Aperol Spritz @ 8.5 EUR, VAT: 18.0% (1.3 EUR)
-  - 2 x Cacciatora @ 40.0 EUR, VAT: 18.0% (6.1 EUR)

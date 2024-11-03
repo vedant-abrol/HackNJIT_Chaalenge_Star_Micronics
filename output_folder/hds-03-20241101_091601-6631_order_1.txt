@@ -1,9 +1,0 @@
-Company: CompanyName
-Order ID: 275998
-Total Price: 7.0 EUR
-VAT Amount: 1.06 EUR
-Items:
-  - 1 x Cappuccino @ 2.5 EUR, VAT: 18.0% (0.38 EUR)
-  - 1 x Espresso Lungo @ 2.0 EUR, VAT: 18.0% (0.31 EUR)
-  - 1 x Llanllyr Still water @ 2.4 EUR, VAT: 18.0% (0.37 EUR)
-  - 1 x BCRS @ 0.1 EUR, VAT: 0.0% (0.0 EUR)

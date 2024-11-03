@@ -1,7 +1,0 @@
-Company: CompanyName
-Order ID: 271738
-Total Price: 21.9 EUR
-VAT Amount: 3.34 EUR
-Items:
-  - 1 x Paccheri Chicken & Guanciale @ 11.95 EUR, VAT: 18.0% (1.82 EUR)
-  - 1 x Penne Beef Ragu @ 9.95 EUR, VAT: 18.0% (1.52 EUR)

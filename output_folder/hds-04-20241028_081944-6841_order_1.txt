@@ -1,9 +1,0 @@
-Company: CompanyName
-Order ID: 1420925
-Total Price: 9.0 EUR
-VAT Amount: 1.34 EUR
-Items:
-  - 2 x BCRS @ 0.2 EUR, VAT: 0.0% (0.0 EUR)
-  - 1 x Maltese toast @ 2.0 EUR, VAT: 18.0% (0.31 EUR)
-  - 1 x Parma Ciabbata @ 5.0 EUR, VAT: 18.0% (0.76 EUR)
-  - 2 x Still Water (Local) @ 1.8 EUR, VAT: 18.0% (0.27 EUR)

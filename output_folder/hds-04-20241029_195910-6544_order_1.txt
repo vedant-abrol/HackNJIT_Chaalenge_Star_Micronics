@@ -1,6 +1,0 @@
-Company: CompanyName
-Order ID: 273866
-Total Price: 34.15 EUR
-VAT Amount: 5.21 EUR
-Items:
-  - 1 x 15 PIECE @ 34.15 EUR, VAT: 18.0% (5.21 EUR)

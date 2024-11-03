@@ -1,8 +1,0 @@
-Company: CompanyName
-Order ID: 1425671
-Total Price: 36.5 EUR
-VAT Amount: 5.56 EUR
-Items:
-  - 1 x HANINI YOGHURT @ 1.0 EUR, VAT: 18.0% (0.15 EUR)
-  - 4 x MAIN 8 @ 32.0 EUR, VAT: 18.0% (4.88 EUR)
-  - 1 x MEAT PIE @ 3.5 EUR, VAT: 18.0% (0.53 EUR)

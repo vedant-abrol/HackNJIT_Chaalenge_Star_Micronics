@@ -1,6 +1,0 @@
-Company: CompanyName
-Order ID: 273502
-Total Price: 3.6 EUR
-VAT Amount: 0.55 EUR
-Items:
-  - 2 x Espresso @ 3.6 EUR, VAT: 18.0% (0.55 EUR)

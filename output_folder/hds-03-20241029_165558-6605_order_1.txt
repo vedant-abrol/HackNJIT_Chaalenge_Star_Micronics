@@ -1,8 +1,0 @@
-Company: CompanyName
-Order ID: 273812
-Total Price: 115.05 EUR
-VAT Amount: 17.86 EUR
-Items:
-  - 4 x Heirloom Breakfast Box @ 39.6 EUR, VAT: 18.0% (6.04 EUR)
-  - 3 x Classic Burger, Our Way @ 37.5 EUR, VAT: 18.0% (5.72 EUR)
-  - 3 x The Heirloom Shroom Burger @ 37.5 EUR, VAT: 18.0% (5.72 EUR)

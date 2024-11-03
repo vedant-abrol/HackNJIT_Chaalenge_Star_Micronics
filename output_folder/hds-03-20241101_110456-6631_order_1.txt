@@ -1,7 +1,0 @@
-Company: CompanyName
-Order ID: 276179
-Total Price: 8.8 EUR
-VAT Amount: 1.34 EUR
-Items:
-  - 3 x 1 Scoop @ 7.5 EUR, VAT: 18.0% (1.14 EUR)
-  - 1 x Gluten Free Cone @ 1.3 EUR, VAT: 18.0% (0.2 EUR)

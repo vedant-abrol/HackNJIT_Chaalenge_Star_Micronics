@@ -1,9 +1,0 @@
-Company: CompanyName
-Order ID: 271253
-Total Price: 81.45 EUR
-VAT Amount: 12.42 EUR
-Items:
-  - 1 x Cocktail @ 9.5 EUR, VAT: 18.0% (1.45 EUR)
-  - 2 x Grappa @ 12.0 EUR, VAT: 18.0% (1.83 EUR)
-  - 2 x Irpinia Falanghina D.O.C. Macchie Santa Maria, Campania @ 56.0 EUR, VAT: 18.0% (8.54 EUR)
-  - 1 x Water 0.75 @ 3.95 EUR, VAT: 18.0% (0.6 EUR)

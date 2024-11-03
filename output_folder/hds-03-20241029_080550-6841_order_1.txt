@@ -1,8 +1,0 @@
-Company: CompanyName
-Order ID: 1424153
-Total Price: 8.0 EUR
-VAT Amount: 1.22 EUR
-Items:
-  - 2 x Cappucino @ 4.0 EUR, VAT: 18.0% (0.61 EUR)
-  - 2 x Coffee normal @ 1.6 EUR, VAT: 18.0% (0.24 EUR)
-  - 2 x Tea big @ 2.4 EUR, VAT: 18.0% (0.37 EUR)

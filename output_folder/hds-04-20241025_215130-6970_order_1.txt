@@ -1,5 +1,0 @@
-Company: CompanyName
-Order ID: 271252
-Total Price: 168.3 EUR
-VAT Amount: 0.0 EUR
-Items:

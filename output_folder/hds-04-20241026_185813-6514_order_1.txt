@@ -1,9 +1,0 @@
-Company: CompanyName
-Order ID: 271605
-Total Price: 74.5 EUR
-VAT Amount: 11.36 EUR
-Items:
-  - 2 x Aperol Spritz @ 17.0 EUR, VAT: 18.0% (2.59 EUR)
-  - 1 x Tavolaccio Apericena @ 25.0 EUR, VAT: 18.0% (3.81 EUR)
-  - 1 x Burrata @ 18.0 EUR, VAT: 18.0% (2.75 EUR)
-  - 1 x Tozzo Polpette @ 14.5 EUR, VAT: 18.0% (2.21 EUR)

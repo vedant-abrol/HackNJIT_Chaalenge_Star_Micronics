@@ -1,9 +1,0 @@
-Company: CompanyName
-Order ID: 274068
-Total Price: 8.7 EUR
-VAT Amount: 1.3 EUR
-Items:
-  - 2 x FLAVOURED WATER @ 3.0 EUR, VAT: 18.0% (0.46 EUR)
-  - 2 x BCRS @ 0.2 EUR, VAT: 0.0% (0.0 EUR)
-  - 1 x DOUBLE ESPRESSO @ 3.0 EUR, VAT: 18.0% (0.46 EUR)
-  - 1 x CAPPUCCINO @ 2.5 EUR, VAT: 18.0% (0.38 EUR)

@@ -1,9 +1,0 @@
-Company: CompanyName
-Order ID: 271562
-Total Price: 68.5 EUR
-VAT Amount: 10.45 EUR
-Items:
-  - 4 x Selezione Glass @ 36.0 EUR, VAT: 18.0% (5.49 EUR)
-  - 1 x Tozzo Polpette @ 14.5 EUR, VAT: 18.0% (2.21 EUR)
-  - 1 x Cocktail @ 9.5 EUR, VAT: 18.0% (1.45 EUR)
-  - 1 x Gin Tonic @ 8.5 EUR, VAT: 18.0% (1.3 EUR)

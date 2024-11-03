@@ -1,7 +1,0 @@
-Company: CompanyName
-Order ID: 275026
-Total Price: 3.0 EUR
-VAT Amount: 0.23 EUR
-Items:
-  - 1 x ESPRESSO @ 1.5 EUR, VAT: 18.0% (0.23 EUR)
-  - 1 x CBD @ 1.5 EUR, VAT: 0.0% (0.0 EUR)

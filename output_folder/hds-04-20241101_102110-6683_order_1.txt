@@ -1,6 +1,0 @@
-Company: CompanyName
-Order ID: 276097
-Total Price: 11.9 EUR
-VAT Amount: 1.82 EUR
-Items:
-  - 1 x Stir fried noodle with beef (Mì xào Bò) @ 11.9 EUR, VAT: 18.0% (1.82 EUR)

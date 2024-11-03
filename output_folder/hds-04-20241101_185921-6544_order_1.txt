@@ -1,9 +1,0 @@
-Company: CompanyName
-Order ID: 276673
-Total Price: 17.0 EUR
-VAT Amount: 2.59 EUR
-Items:
-  - 1 x Better Meal @ 7.95 EUR, VAT: 18.0% (1.21 EUR)
-  - 3 x BCRS @ 0.3 EUR, VAT: 18.0% (0.05 EUR)
-  - 1 x 6 STRIPS @ 5.25 EUR, VAT: 18.0% (0.8 EUR)
-  - 1 x 2 PIECE @ 3.5 EUR, VAT: 18.0% (0.53 EUR)

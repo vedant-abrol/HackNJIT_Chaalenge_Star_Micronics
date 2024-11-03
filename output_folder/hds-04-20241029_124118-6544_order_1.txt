@@ -1,8 +1,0 @@
-Company: CompanyName
-Order ID: 273555
-Total Price: 14.05 EUR
-VAT Amount: 2.15 EUR
-Items:
-  - 1 x 12 WINGS MEAL @ 13.55 EUR, VAT: 18.0% (2.07 EUR)
-  - 1 x BCRS @ 0.1 EUR, VAT: 18.0% (0.02 EUR)
-  - 1 x Mayonaise @ 0.4 EUR, VAT: 18.0% (0.06 EUR)

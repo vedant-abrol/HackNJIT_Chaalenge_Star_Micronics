@@ -1,8 +1,0 @@
-Company: CompanyName
-Order ID: 271597
-Total Price: 33.1 EUR
-VAT Amount: 5.05 EUR
-Items:
-  - 2 x Bacon Strip @ 29.9 EUR, VAT: 18.0% (4.56 EUR)
-  - 1 x Truffle sauce @ 1.2 EUR, VAT: 18.0% (0.18 EUR)
-  - 1 x Mirinda @ 2.0 EUR, VAT: 18.0% (0.31 EUR)

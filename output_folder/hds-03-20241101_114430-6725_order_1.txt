@@ -1,7 +1,0 @@
-Company: CompanyName
-Order ID: 276236
-Total Price: 15.95 EUR
-VAT Amount: 2.43 EUR
-Items:
-  - 1 x Truffle Taste @ 14.95 EUR, VAT: 18.0% (2.28 EUR)
-  - 1 x Honey mustard sauce @ 1.0 EUR, VAT: 18.0% (0.15 EUR)

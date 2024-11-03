@@ -1,9 +1,0 @@
-Company: CompanyName
-Order ID: 271168
-Total Price: 52.95 EUR
-VAT Amount: 8.07 EUR
-Items:
-  - 2 x Wine Glass Local @ 13.0 EUR, VAT: 18.0% (1.98 EUR)
-  - 1 x Water 0.75 @ 3.95 EUR, VAT: 18.0% (0.6 EUR)
-  - 1 x Pumpkin Soup @ 16.0 EUR, VAT: 18.0% (2.44 EUR)
-  - 1 x Cacciatora @ 20.0 EUR, VAT: 18.0% (3.05 EUR)

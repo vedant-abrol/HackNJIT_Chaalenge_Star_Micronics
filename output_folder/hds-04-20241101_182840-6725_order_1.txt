@@ -1,7 +1,0 @@
-Company: CompanyName
-Order ID: 276651
-Total Price: 25.9 EUR
-VAT Amount: 3.95 EUR
-Items:
-  - 1 x Truffle Taste @ 14.95 EUR, VAT: 18.0% (2.28 EUR)
-  - 1 x Hog Dawg @ 10.95 EUR, VAT: 18.0% (1.67 EUR)

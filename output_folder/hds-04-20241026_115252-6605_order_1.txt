@@ -1,8 +1,0 @@
-Company: CompanyName
-Order ID: 271379
-Total Price: 19.5 EUR
-VAT Amount: 2.97 EUR
-Items:
-  - 1 x Pulled Rabbit Croquettes @ 6.5 EUR, VAT: 18.0% (0.99 EUR)
-  - 1 x Salt & Pepper Fries @ 3.5 EUR, VAT: 18.0% (0.53 EUR)
-  - 1 x Fresh Falafel Salad @ 9.5 EUR, VAT: 18.0% (1.45 EUR)

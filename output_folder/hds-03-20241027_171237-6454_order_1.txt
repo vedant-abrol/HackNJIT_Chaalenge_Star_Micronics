@@ -1,7 +1,0 @@
-Company: CompanyName
-Order ID: 1420505
-Total Price: 3.6 EUR
-VAT Amount: 0.55 EUR
-Items:
-  - 2 x Instant Coffee @ 1.6 EUR, VAT: 18.0% (0.24 EUR)
-  - 1 x Pastries @ 2.0 EUR, VAT: 18.0% (0.31 EUR)

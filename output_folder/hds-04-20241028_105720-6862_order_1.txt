@@ -1,6 +1,0 @@
-Company: CompanyName
-Order ID: 1421558
-Total Price: 3.5 EUR
-VAT Amount: 0.53 EUR
-Items:
-  - 1 x HAM AND CHEESE PIE @ 3.5 EUR, VAT: 18.0% (0.53 EUR)

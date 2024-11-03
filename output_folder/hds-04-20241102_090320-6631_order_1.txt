@@ -1,8 +1,0 @@
-Company: CompanyName
-Order ID: 276808
-Total Price: 3.7 EUR
-VAT Amount: 0.55 EUR
-Items:
-  - 1 x Americano @ 2.2 EUR, VAT: 18.0% (0.34 EUR)
-  - 1 x Small Still water @ 1.4 EUR, VAT: 18.0% (0.21 EUR)
-  - 1 x BCRS @ 0.1 EUR, VAT: 0.0% (0.0 EUR)

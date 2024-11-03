@@ -1,6 +1,0 @@
-Company: CompanyName
-Order ID: 271378
-Total Price: 13.5 EUR
-VAT Amount: 2.06 EUR
-Items:
-  - 3 x Iced Coffee @ 13.5 EUR, VAT: 18.0% (2.06 EUR)

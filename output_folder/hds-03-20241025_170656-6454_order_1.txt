@@ -1,7 +1,0 @@
-Company: CompanyName
-Order ID: 1416793
-Total Price: 5.0 EUR
-VAT Amount: 0.73 EUR
-Items:
-  - 2 x BCRS @ 0.2 EUR, VAT: 0.0% (0.0 EUR)
-  - 2 x Cisk @ 4.8 EUR, VAT: 18.0% (0.73 EUR)

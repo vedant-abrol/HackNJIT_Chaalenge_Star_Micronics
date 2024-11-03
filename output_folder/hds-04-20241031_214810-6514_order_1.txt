@@ -1,7 +1,0 @@
-Company: CompanyName
-Order ID: 275865
-Total Price: 24.0 EUR
-VAT Amount: 3.66 EUR
-Items:
-  - 2 x Cisk Pint @ 11.0 EUR, VAT: 18.0% (1.68 EUR)
-  - 2 x Wine Glass Local @ 13.0 EUR, VAT: 18.0% (1.98 EUR)

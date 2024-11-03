@@ -1,8 +1,0 @@
-Company: CompanyName
-Order ID: 275837
-Total Price: 19.0 EUR
-VAT Amount: 2.9 EUR
-Items:
-  - 3 x Heineken @ 12.0 EUR, VAT: 18.0% (1.83 EUR)
-  - 1 x Heineken @ 2.0 EUR, VAT: 18.0% (0.31 EUR)
-  - 2 x Redbull @ 5.0 EUR, VAT: 18.0% (0.76 EUR)

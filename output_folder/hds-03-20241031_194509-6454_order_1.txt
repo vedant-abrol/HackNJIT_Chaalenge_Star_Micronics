@@ -1,7 +1,0 @@
-Company: CompanyName
-Order ID: 1436947
-Total Price: 7.1 EUR
-VAT Amount: 1.08 EUR
-Items:
-  - 1 x Soft Ice Cream Cup @ 3.3 EUR, VAT: 18.0% (0.5 EUR)
-  - 1 x Soft Ice Cream Cup @ 3.8 EUR, VAT: 18.0% (0.58 EUR)

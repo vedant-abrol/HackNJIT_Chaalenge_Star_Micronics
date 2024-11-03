@@ -1,7 +1,0 @@
-Company: CompanyName
-Order ID: 1417308
-Total Price: 4.4 EUR
-VAT Amount: 0.68 EUR
-Items:
-  - 3 x Instant Coffee @ 2.4 EUR, VAT: 18.0% (0.37 EUR)
-  - 1 x Shot Baileys @ 2.0 EUR, VAT: 18.0% (0.31 EUR)

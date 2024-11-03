@@ -1,9 +1,0 @@
-Company: CompanyName
-Order ID: 1420483
-Total Price: 5.2 EUR
-VAT Amount: 0.77 EUR
-Items:
-  - 2 x BCRS @ 0.2 EUR, VAT: 0.0% (0.0 EUR)
-  - 1 x Crisps @ 1.0 EUR, VAT: 18.0% (0.15 EUR)
-  - 1 x Soft Ice Cream Cup @ 2.0 EUR, VAT: 18.0% (0.31 EUR)
-  - 2 x Water @ 2.0 EUR, VAT: 18.0% (0.31 EUR)

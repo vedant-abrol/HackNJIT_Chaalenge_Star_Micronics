@@ -1,8 +1,0 @@
-Company: CompanyName
-Order ID: 272213
-Total Price: 4.8 EUR
-VAT Amount: 0.72 EUR
-Items:
-  - 1 x LATTE @ 3.2 EUR, VAT: 18.0% (0.49 EUR)
-  - 1 x STILL WATER @ 1.5 EUR, VAT: 18.0% (0.23 EUR)
-  - 1 x BCRS @ 0.1 EUR, VAT: 0.0% (0.0 EUR)

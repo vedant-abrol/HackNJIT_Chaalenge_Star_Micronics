@@ -1,9 +1,0 @@
-Company: CompanyName
-Order ID: 276537
-Total Price: 9.4 EUR
-VAT Amount: 1.41 EUR
-Items:
-  - 1 x DOUBLE ESPRESSO @ 3.0 EUR, VAT: 18.0% (0.46 EUR)
-  - 1 x LATTE @ 3.2 EUR, VAT: 18.0% (0.49 EUR)
-  - 2 x FLAVOURED WATER @ 3.0 EUR, VAT: 18.0% (0.46 EUR)
-  - 2 x BCRS @ 0.2 EUR, VAT: 0.0% (0.0 EUR)

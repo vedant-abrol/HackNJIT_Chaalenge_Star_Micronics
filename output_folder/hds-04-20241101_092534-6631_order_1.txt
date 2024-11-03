@@ -1,7 +1,0 @@
-Company: CompanyName
-Order ID: 276014
-Total Price: 9.0 EUR
-VAT Amount: 1.33 EUR
-Items:
-  - 3 x Bavaria @ 8.7 EUR, VAT: 18.0% (1.33 EUR)
-  - 3 x BCRS @ 0.3 EUR, VAT: 0.0% (0.0 EUR)

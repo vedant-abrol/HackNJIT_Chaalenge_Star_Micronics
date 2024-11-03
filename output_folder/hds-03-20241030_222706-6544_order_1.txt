@@ -1,9 +1,0 @@
-Company: CompanyName
-Order ID: 274935
-Total Price: 35.8 EUR
-VAT Amount: 5.46 EUR
-Items:
-  - 1 x 20 WINGS @ 18.75 EUR, VAT: 18.0% (2.86 EUR)
-  - 1 x 6 WINGS @ 6.25 EUR, VAT: 18.0% (0.95 EUR)
-  - 1 x CHEESE ROLLER @ 5.95 EUR, VAT: 18.0% (0.91 EUR)
-  - 1 x MOZZARELLA STICKS 4 @ 4.85 EUR, VAT: 18.0% (0.74 EUR)

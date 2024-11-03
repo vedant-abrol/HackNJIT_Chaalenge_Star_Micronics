@@ -1,7 +1,0 @@
-Company: CompanyName
-Order ID: 271820
-Total Price: 7.25 EUR
-VAT Amount: 1.11 EUR
-Items:
-  - 2 x Espresso Lungo @ 4.0 EUR, VAT: 18.0% (0.61 EUR)
-  - 1 x Slush @ 3.25 EUR, VAT: 18.0% (0.5 EUR)

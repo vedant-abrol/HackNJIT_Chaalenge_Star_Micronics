@@ -1,8 +1,0 @@
-Company: CompanyName
-Order ID: 271600
-Total Price: 50.45 EUR
-VAT Amount: 7.69 EUR
-Items:
-  - 2 x Tozzo octopus @ 40.0 EUR, VAT: 18.0% (6.1 EUR)
-  - 1 x Wine Glass Local @ 6.5 EUR, VAT: 18.0% (0.99 EUR)
-  - 1 x Water 0.75 @ 3.95 EUR, VAT: 18.0% (0.6 EUR)

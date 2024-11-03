@@ -1,9 +1,0 @@
-Company: CompanyName
-Order ID: 276534
-Total Price: 37.1 EUR
-VAT Amount: 4.74 EUR
-Items:
-  - 1 x Mixed Dim Sum Platter (4pcs) @ 6.0 EUR, VAT: 0.0% (0.0 EUR)
-  - 1 x Crunchy Fried Chicken (4pcs) Gà chiên giòn @ 6.5 EUR, VAT: 18.0% (0.99 EUR)
-  - 2 x Gao Special rice noodle - Bún Đặc Biệt) @ 23.6 EUR, VAT: 18.0% (3.6 EUR)
-  - 1 x Still Water @ 1.0 EUR, VAT: 18.0% (0.15 EUR)

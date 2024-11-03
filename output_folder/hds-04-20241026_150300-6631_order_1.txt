@@ -1,8 +1,0 @@
-Company: CompanyName
-Order ID: 271484
-Total Price: 10.3 EUR
-VAT Amount: 1.57 EUR
-Items:
-  - 2 x Cappuccino @ 5.0 EUR, VAT: 18.0% (0.76 EUR)
-  - 2 x 1 Scoop @ 5.0 EUR, VAT: 18.0% (0.76 EUR)
-  - 1 x Waffle Cone @ 0.3 EUR, VAT: 18.0% (0.05 EUR)

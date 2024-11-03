@@ -1,8 +1,0 @@
-Company: CompanyName
-Order ID: 276854
-Total Price: 9.5 EUR
-VAT Amount: 1.39 EUR
-Items:
-  - 3 x Small Still water @ 4.2 EUR, VAT: 18.0% (0.64 EUR)
-  - 4 x BCRS @ 0.4 EUR, VAT: 0.0% (0.0 EUR)
-  - 1 x Guinness @ 4.9 EUR, VAT: 18.0% (0.75 EUR)

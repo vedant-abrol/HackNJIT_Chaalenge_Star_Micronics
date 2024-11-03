@@ -1,7 +1,0 @@
-Company: CompanyName
-Order ID: 274105
-Total Price: 6.4 EUR
-VAT Amount: 0.95 EUR
-Items:
-  - 2 x ESPRESSO @ 3.0 EUR, VAT: 18.0% (0.46 EUR)
-  - 1 x PISTACHIO CROISSANT @ 3.2 EUR, VAT: 18.0% (0.49 EUR)

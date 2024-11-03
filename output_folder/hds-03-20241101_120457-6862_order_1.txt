@@ -1,7 +1,0 @@
-Company: CompanyName
-Order ID: 1438505
-Total Price: 17.0 EUR
-VAT Amount: 2.6 EUR
-Items:
-  - 2 x HANINI YOGHURT @ 2.0 EUR, VAT: 18.0% (0.31 EUR)
-  - 2 x MAIN 7.50 @ 15.0 EUR, VAT: 18.0% (2.29 EUR)

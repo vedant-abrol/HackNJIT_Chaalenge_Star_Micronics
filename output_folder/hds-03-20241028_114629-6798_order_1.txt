@@ -1,7 +1,0 @@
-Company: CompanyName
-Order ID: 272391
-Total Price: 3.2 EUR
-VAT Amount: 0.46 EUR
-Items:
-  - 2 x FLAVOURED WATER @ 3.0 EUR, VAT: 18.0% (0.46 EUR)
-  - 2 x BCRS @ 0.2 EUR, VAT: 0.0% (0.0 EUR)

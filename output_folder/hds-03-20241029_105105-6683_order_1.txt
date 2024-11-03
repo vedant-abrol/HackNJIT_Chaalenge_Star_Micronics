@@ -1,8 +1,0 @@
-Company: CompanyName
-Order ID: 273188
-Total Price: 21.4 EUR
-VAT Amount: 3.27 EUR
-Items:
-  - 1 x Pork bun - Bánh bao nhân thịt @ 6.2 EUR, VAT: 18.0% (0.95 EUR)
-  - 1 x The southern fried beef rice noodle (Bún Bò Xào) @ 11.9 EUR, VAT: 18.0% (1.82 EUR)
-  - 1 x Bac xiu coffee @ 3.3 EUR, VAT: 18.0% (0.5 EUR)

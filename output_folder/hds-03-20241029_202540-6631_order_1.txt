@@ -1,5 +1,0 @@
-Company: CompanyName
-Order ID: 273874
-Total Price: 18.95 EUR
-VAT Amount: 0.0 EUR
-Items:

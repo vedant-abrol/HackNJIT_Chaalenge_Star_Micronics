@@ -1,9 +1,0 @@
-Company: CompanyName
-Order ID: 1433611
-Total Price: 6.7 EUR
-VAT Amount: 1.01 EUR
-Items:
-  - 1 x BCRS @ 0.1 EUR, VAT: 0.0% (0.0 EUR)
-  - 1 x DairyMILK @ 1.7 EUR, VAT: 18.0% (0.26 EUR)
-  - 1 x Kinnie Diet @ 1.9 EUR, VAT: 18.0% (0.29 EUR)
-  - 1 x Tuna Ftira @ 3.0 EUR, VAT: 18.0% (0.46 EUR)

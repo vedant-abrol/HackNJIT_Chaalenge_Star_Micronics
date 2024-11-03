@@ -1,9 +1,0 @@
-Company: CompanyName
-Order ID: 275747
-Total Price: 34.0 EUR
-VAT Amount: 5.19 EUR
-Items:
-  - 2 x Beef Pho @ 22.0 EUR, VAT: 18.0% (3.36 EUR)
-  - 1 x Vietnamese porkball & egg - Xíu Mại trứng. @ 8.0 EUR, VAT: 18.0% (1.22 EUR)
-  - 1 x Vietnamese Brown Coffee H/C @ 2.5 EUR, VAT: 18.0% (0.38 EUR)
-  - 1 x Vietnamese Strong Black Coffee H/C @ 1.5 EUR, VAT: 18.0% (0.23 EUR)

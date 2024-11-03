@@ -1,8 +1,0 @@
-Company: CompanyName
-Order ID: 273144
-Total Price: 11.0 EUR
-VAT Amount: 1.61 EUR
-Items:
-  - 2 x Heineken @ 5.8 EUR, VAT: 18.0% (0.88 EUR)
-  - 4 x BCRS @ 0.4 EUR, VAT: 0.0% (0.0 EUR)
-  - 2 x Soft drinks @ 4.8 EUR, VAT: 18.0% (0.73 EUR)

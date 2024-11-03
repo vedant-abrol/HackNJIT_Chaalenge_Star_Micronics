@@ -1,9 +1,0 @@
-Company: CompanyName
-Order ID: 271920
-Total Price: 24.0 EUR
-VAT Amount: 3.49 EUR
-Items:
-  - 3 x Small Sparkling water @ 4.2 EUR, VAT: 18.0% (0.64 EUR)
-  - 11 x BCRS @ 1.1 EUR, VAT: 0.0% (0.0 EUR)
-  - 3 x Small Still water @ 4.2 EUR, VAT: 18.0% (0.64 EUR)
-  - 5 x Heineken @ 14.5 EUR, VAT: 18.0% (2.21 EUR)

@@ -1,8 +1,0 @@
-Company: CompanyName
-Order ID: 271561
-Total Price: 27.8 EUR
-VAT Amount: 4.25 EUR
-Items:
-  - 2 x Felix Burger Meal @ 15.9 EUR, VAT: 18.0% (2.43 EUR)
-  - 3 x BCRS @ 0.3 EUR, VAT: 18.0% (0.05 EUR)
-  - 1 x HAPPY COMBO-1 drink @ 11.6 EUR, VAT: 18.0% (1.77 EUR)

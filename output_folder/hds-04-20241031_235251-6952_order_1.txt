@@ -1,5 +1,0 @@
-Company: CompanyName
-Order ID: 1437161
-Total Price: 23.5 EUR
-VAT Amount: 0.0 EUR
-Items:

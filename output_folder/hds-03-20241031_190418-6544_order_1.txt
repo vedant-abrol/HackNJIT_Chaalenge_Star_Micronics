@@ -1,7 +1,0 @@
-Company: CompanyName
-Order ID: 275814
-Total Price: 20.55 EUR
-VAT Amount: 3.13 EUR
-Items:
-  - 4 x FELIX BURGER @ 15.8 EUR, VAT: 18.0% (2.41 EUR)
-  - 1 x KIDS STRIPS MEAL @ 4.75 EUR, VAT: 18.0% (0.72 EUR)

@@ -1,8 +1,0 @@
-Company: CompanyName
-Order ID: 271319
-Total Price: 33.0 EUR
-VAT Amount: 5.04 EUR
-Items:
-  - 8 x CAPPUCCINO @ 20.0 EUR, VAT: 18.0% (3.05 EUR)
-  - 5 x AMERICANO @ 10.0 EUR, VAT: 18.0% (1.53 EUR)
-  - 2 x ESPRESSO @ 3.0 EUR, VAT: 18.0% (0.46 EUR)

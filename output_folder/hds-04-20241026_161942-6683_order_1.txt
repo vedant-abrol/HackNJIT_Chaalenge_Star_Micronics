@@ -1,9 +1,0 @@
-Company: CompanyName
-Order ID: 271514
-Total Price: 36.6 EUR
-VAT Amount: 4.58 EUR
-Items:
-  - 1 x Steamed Prawn & Pork Parcels (4pcs) Xíu mại @ 6.6 EUR, VAT: 18.0% (1.01 EUR)
-  - 1 x Mixed Dim Sum Platter (4pcs) @ 6.6 EUR, VAT: 0.0% (0.0 EUR)
-  - 1 x Beef Pho @ 13.5 EUR, VAT: 18.0% (2.06 EUR)
-  - 1 x Grilled Pork with rice noodle (Bún Thịt Nướng) @ 9.9 EUR, VAT: 18.0% (1.51 EUR)

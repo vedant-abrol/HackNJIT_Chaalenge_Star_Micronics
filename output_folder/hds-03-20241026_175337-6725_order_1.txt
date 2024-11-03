@@ -1,9 +1,0 @@
-Company: CompanyName
-Order ID: 271570
-Total Price: 17.25 EUR
-VAT Amount: 2.62 EUR
-Items:
-  - 1 x Bacon Strip @ 13.95 EUR, VAT: 18.0% (2.13 EUR)
-  - 1 x Jack honey sauce @ 1.2 EUR, VAT: 18.0% (0.18 EUR)
-  - 1 x Mirinda @ 2.0 EUR, VAT: 18.0% (0.31 EUR)
-  - 1 x BCRS @ 0.1 EUR, VAT: 0.0% (0.0 EUR)

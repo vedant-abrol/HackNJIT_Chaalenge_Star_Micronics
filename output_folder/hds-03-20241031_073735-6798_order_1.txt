@@ -1,7 +1,0 @@
-Company: CompanyName
-Order ID: 274972
-Total Price: 6.9 EUR
-VAT Amount: 1.05 EUR
-Items:
-  - 1 x LATTE @ 3.7 EUR, VAT: 18.0% (0.56 EUR)
-  - 1 x LATTE @ 3.2 EUR, VAT: 18.0% (0.49 EUR)

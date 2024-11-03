@@ -1,6 +1,0 @@
-Company: CompanyName
-Order ID: 1435499
-Total Price: 13.0 EUR
-VAT Amount: 1.98 EUR
-Items:
-  - 2 x Lasagna @ 13.0 EUR, VAT: 18.0% (1.98 EUR)
