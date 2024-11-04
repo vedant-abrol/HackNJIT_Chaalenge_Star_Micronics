@@ -4,6 +4,8 @@
 
 # HackNJIT Challenge - POS Receipt Data Analysis
 
+![Project Overview](https://github.com/vedant-abrol/HackNJIT_Challenge_Star_Micronics/blob/main/Star_Dynamic_Pricing_Dashboard.png)
+
 ## Project Overview
 
 This project, developed for the HackNJIT 2024 Challenge, is focused on analyzing POS (Point of Sale) receipt data in `.stm` format from various cafes. The goal was to store, organize, and process unstructured receipt data in an AWS infrastructure and extract valuable insights to be visualized through PowerBI. The project utilizes AWS services like S3 and Athena for data storage and querying, with Terraform used for cloud infrastructure setup. PowerBI provides the data visualization interface, allowing stakeholders to view trends and analytics over the receipt data.
